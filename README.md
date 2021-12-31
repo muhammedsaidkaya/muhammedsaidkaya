@@ -87,22 +87,10 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 <!--END_SECTION:activity-->
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-</head>
-<body>
 <h2 align="left"> 📈  Github Stats</h2>
-<div class="row">
-  <div class="col-3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=java,css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  </div>
-  <div class="col-9">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
-  </div>
-</div>
-</body>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=java,css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
+
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
