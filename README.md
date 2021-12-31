@@ -26,6 +26,8 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <br/>
 
 <h2 align="left"> 💻 Tech Stack</h2>
+<p align="left">
+
 <img src="assets/python-ar21.svg" alt="python" width="80" height="50"/>
 <img src="assets/golang-ar21.svg" alt="golang" width="80" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
@@ -48,6 +50,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <img src="assets/grafana-ar21.svg" alt="envoy" width="80" height="50"/>
 <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+</p>
 
 <br/>
 
@@ -62,9 +65,11 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <br/>
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges">Certificates</a></h2>
+<p align="left">
 <img src="assets/certificates/cka.png" alt="cka" width="100" height="100"/> 
 <img src="assets/certificates/AWS-CP.png" alt="devops" width="100" height="100"/> 
 <img src="assets/certificates/terraform-associate.png" alt="terraform" width="100" height="100"/>
+</p>
 
 <br/>
 
