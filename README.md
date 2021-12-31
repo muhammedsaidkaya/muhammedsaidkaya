@@ -84,6 +84,15 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 5. 💪 Opened PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
 <!--END_SECTION:activity-->
 
+
+<h2 align="left">Stats </h2>
+
+<p align="left">
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&show_icons=true&theme=white"/>
+ 
+</p>
+
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
