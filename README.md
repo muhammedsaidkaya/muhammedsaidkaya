@@ -52,7 +52,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <img src="assets/pulumiio-ar21.svg" alt="pulumi" width="80" height="50"/>
 </p>
 
-<br/>
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges">Certificates</a></h2>
 <p align="left">
@@ -74,7 +73,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 - [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
 
 
 <h2 align="left"> ⚡ Recent Activity</h2>
