@@ -80,7 +80,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 <h2 align="left"> ⚡ Recent Activity</h2>
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
