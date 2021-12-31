@@ -87,6 +87,10 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <h2 align="left"> Github Stats</h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img style="margin-left:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&layout=compact&card_width=300" alt="Top language used in my repos" />
+
+
+
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
