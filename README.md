@@ -99,7 +99,7 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=java,css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </div>
   <div class="col-9">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&width=150px" alt="Muhammed Said Kaya's Github Stats"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
   </div>
 </div>
 </body>
