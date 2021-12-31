@@ -9,13 +9,11 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 <br/>
 
-<h2> ✍️ Social</h2>
-<p align="left">
-  <a href="https://twitter.com/msaidkayaa" style="padding-left:10px"><img alt="Twitter" height="40" width="40" src="assets/twitter.svg"></a>
-  <a href="https://github.com/muhammedsaidkaya" style="padding-left:10px"><img alt="GitHub" height="40" width="40" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/muhammedsaidkaya/" style="padding-left:10px" ><img alt="LinkedIn" height="40" width="40" src="assets/linkedin.svg"></a>
-  <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"></a>
-</p>
+<h2>📫 How to reach me:</h2>
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/msaidkayaa)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
+
 
 <br/>
 
@@ -67,8 +65,9 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 <br/>
 
-
-<h2 align="left"> Latest Blog Post</h2>
+<h2 align="left"> 
+<a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/>
+Latest Blog Post</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
@@ -78,8 +77,8 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 <h2 align="left"> ⚡ Recent Activity</h2>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
