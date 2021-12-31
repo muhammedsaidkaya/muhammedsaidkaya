@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Whoami </h2>
 
-Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Platform Engineer [kloia](https://www.kloia.com/). I am trying to be Agile for edge technologies.
+Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Platform Engineer at [kloia](https://www.kloia.com/). I am trying to be Agile for edge technologies.
 
 
 
