@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://twitter.com/msaidkayaa"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+  <a href="https://github.com/muhammedsaidkaya"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/muhammedsaidkaya/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+</p>
+
+Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Platform Engineer at kloia. I am trying to be Agile for edge technologies.
+
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
