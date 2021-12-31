@@ -15,15 +15,12 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 </p>
 
 
-<br/>
-
 
 <h2>📫 How to reach me:</h2>
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/msaidkayaa)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
-<br/>
 
 
 <h2 align="left"> 💻 Tech Stack</h2>
