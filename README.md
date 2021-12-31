@@ -36,8 +36,7 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="50"/>
 <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="50" height="40"/>
-<img alt="rancher" height="50" width="100" src="assets/rancher-logo.svg">
-<img src="assets/vault-logo.svg" alt="vault" width="90" height="50"/>
+
 <img src="assets/prometheus-icon.svg" alt="prometheus" width="60" height="40"/>
 <img src="assets/grafana-ar21.svg" alt="grafana" width="80" height="50"/>
 </p>
@@ -52,6 +51,8 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 <img src="assets/pulumiio-ar21.svg" alt="pulumi" width="80" height="50"/>
 <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="assets/vault-logo.svg" alt="vault" width="90" height="50"/>
+<img alt="rancher" height="50" width="100" src="assets/rancher-logo.svg">
 </p>
 
 
