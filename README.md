@@ -62,7 +62,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <img src="assets/certificates/terraform-associate.png" alt="terraform" width="100" height="100"/>
 </p>
 
-
+<br/>
 
 <h2 align="left"> 
 <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/>
