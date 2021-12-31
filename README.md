@@ -1,12 +1,21 @@
 
-### Hi there 👋
 
 
 
 <h2>👨‍💻 Whoami </h2>
 
-Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Platform Engineer at [kloia](https://www.kloia.com/). I am trying to be Agile for edge technologies.
+<p align="center">
+  <samp>
+Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://www.kloia.com/">kloia</a>. I am trying to be Agile for edge technologies.
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
+  <img style="margin-left:2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&layout=compact&card_width=280" alt="Top language used in my repos" />
+</p>
 
+
+<br/>
 
 
 <h2>📫 How to reach me:</h2>
@@ -14,6 +23,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/msaidkayaa)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
+<br/>
 
 
 <h2 align="left"> 💻 Tech Stack</h2>
@@ -83,12 +93,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 4. 🎉 Merged PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
 5. 💪 Opened PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
 <!--END_SECTION:activity-->
-
-<h2 align="left"> Github Stats</h2>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-<img style="margin-left:2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&layout=compact&card_width=280" alt="Top language used in my repos" />
-
 
 
 
