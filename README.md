@@ -44,6 +44,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
