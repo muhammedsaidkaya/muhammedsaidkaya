@@ -1,7 +1,7 @@
 
 <h2>👨‍💻 Whoami </h2>
 
-<p align="center">
+<p align="center" style="font-size:18px">
   <samp>
 Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://www.kloia.com/">kloia</a>. I am trying to be Agile for edge technologies.
   </samp>
