@@ -29,7 +29,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
 <img src="assets/git-scm-ar21.svg" alt="git" width="80" height="50"/>
-<br/>
 <img src="assets/packerio-ar21.svg" alt="packer" width="80" height="50"/>
 <img src="assets/terraform-logo.svg" alt="terraform" width="90" height="50"/>
 <img src="assets/ansible.svg" alt="ansible" width="80" height="50"/>
