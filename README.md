@@ -15,7 +15,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
 
-<br/>
 
 <h2 align="left"> 💻 Tech Stack</h2>
 <p align="left">
