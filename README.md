@@ -73,8 +73,8 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <!-- BLOG-POST-LIST:END -->
 
 
-<details>
-<summary style="font-size:20px">⚡ Recent Activity</summary>
+
+<h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2/pull/1) in [muhammedsaidkaya/pulumi-golang-vpc-ec2](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2)
@@ -83,12 +83,10 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 4. 🎉 Merged PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
 5. 💪 Opened PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
 <!--END_SECTION:activity-->
-</details>
 
-<details >
-<summary style="font-size:20px">Github Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</details>
+<h2 align="left"> Github Stats</h2>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
