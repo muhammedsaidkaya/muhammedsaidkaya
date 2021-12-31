@@ -44,8 +44,6 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating Prometheus Custom Exporter with kloia_exporter](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999)
-- [How to use Git Hooks for Shift Left on Continuous Integration](https://www.kloia.com/blog/how-to-use-git-hooks-for-shift-left-on-continuous-integration)
 <!-- BLOG-POST-LIST:END -->
 
 
