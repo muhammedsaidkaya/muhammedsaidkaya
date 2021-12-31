@@ -10,8 +10,6 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
-  <img style="margin-left:2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&layout=compact&card_width=280" alt="Top language used in my repos" />
 </p>
 
 
@@ -91,6 +89,9 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 5. 💪 Opened PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
 <!--END_SECTION:activity-->
 
+<h2 align="left"> 📈  Github Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=java,css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
 
 
 <!--
