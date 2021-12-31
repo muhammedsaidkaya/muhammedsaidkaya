@@ -53,7 +53,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 </p>
 
 
-<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges">Certificates</a></h2>
+<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
 <p align="left">
 <img src="assets/certificates/cka.png" alt="cka" width="100" height="100"/> 
 <img src="assets/certificates/AWS-CP.png" alt="devops" width="100" height="100"/> 
@@ -61,7 +61,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 </p>
 
 
-<h2 align="left"> 🖌 Latest Blog Post</h2>
+<h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
  <!-- <div align="left">
  <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/> -->
