@@ -72,6 +72,7 @@ Latest Blog Post</h2>
 - [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
 
 
 <h2 align="left"> ⚡ Recent Activity</h2>
