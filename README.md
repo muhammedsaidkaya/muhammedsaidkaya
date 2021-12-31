@@ -79,6 +79,7 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 
 
 <h2 align="left"> ⚡ Recent Activity</h2>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2/pull/1) in [muhammedsaidkaya/pulumi-golang-vpc-ec2](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2)
 2. 💪 Opened PR [#1](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2/pull/1) in [muhammedsaidkaya/pulumi-golang-vpc-ec2](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2)
