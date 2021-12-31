@@ -34,6 +34,18 @@ Hello, I'm [Muhammed Said Kaya](https://twitter.com/msaidkayaa), working as Plat
 <img src="assets/pulumiio-ar21.svg" alt="pulumi" width="80" height="50"/>
 </p>
 
+**[Certificates](https://www.credly.com/users/muhammed-said-kaya/badges)**
+<p align="left">
+<img src="assets/certificates/cka.png" alt="cka" width="100" height="100"/> 
+<img src="assets/certificates/AWS-CP.png" alt="devops" width="100" height="100"/> 
+<img src="assets/certificates/terraform-associate.png" alt="terraform" width="100" height="100"/>
+</p>
+
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
