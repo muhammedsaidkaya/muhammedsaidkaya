@@ -72,6 +72,7 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Git Hooks for Shift Left on Continuous Integration](https://blog.kloia.com/how-to-use-git-hooks-for-shift-left-on-continuous-integration-67c6883b6ceb?source=rss-bb6d038e35e3------2)
 - [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
 
