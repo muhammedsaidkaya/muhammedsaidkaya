@@ -19,42 +19,120 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 
 
 <h2 align="left"> 💻 Tech Stack</h2>
-<p align="left">
 
-<img src="assets/python-ar21.svg" alt="python" width="80" height="50"/>
-<img src="assets/golang-ar21.svg" alt="golang" width="80" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" />
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
-<img src="assets/git-scm-ar21.svg" alt="git" width="80" height="50"/>
-<img src="assets/packerio-ar21.svg" alt="packer" width="80" height="50"/>
-<img src="assets/terraform-logo.svg" alt="terraform" width="90" height="50"/>
-<img src="assets/ansible.svg" alt="ansible" width="80" height="50"/>
-<img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="50"/>
-<img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="50" height="40"/>
-
-<img src="assets/prometheus-icon.svg" alt="prometheus" width="60" height="40"/>
-<img src="assets/grafana-ar21.svg" alt="grafana" width="80" height="50"/>
-</p>
-
-<br/>
-
-- **🌱 I’m currently learning ...**
-<p align="left">
-
-<img src="assets/istio-icon.svg" alt="istio" width="80" height="50"/>
-<img src="assets/envoyproxyio-ar21.svg" alt="envoy" width="80" height="50"/>
-<img src="assets/pulumiio-ar21.svg" alt="pulumi" width="80" height="50"/>
-<img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="assets/vault-logo.svg" alt="vault" width="90" height="50"/>
-<img alt="rancher" height="50" width="100" src="assets/rancher-logo.svg">
-</p>
-
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <td></td>
+    <td>🌱 Learning ...</td>
+  </tr>
+  <tr>
+    <th>Version Control Systems</th>
+    <td>
+      <img src="assets/git-scm-ar21.svg" alt="git" width="80" height="50"/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Programming Languages</th>
+    <td>
+      <img src="assets/python-ar21.svg" alt="python" width="80" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="js" width="100" height="50"/>
+    </td>
+    <td>
+      <img src="assets/golang-ar21.svg" alt="golang" width="80" height="50"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Frameworks and Libraries</th>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" />
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Sql/NoSQL Databases</th>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo"/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Infrastructure as Code Tools</th>
+    <td>
+      <img src="assets/packerio-ar21.svg" alt="packer" width="80" height="50"/>
+      <img src="assets/terraform-logo.svg" alt="terraform" width="90" height="50"/>
+      <img src="assets/pulumiio-ar21.svg" alt="pulumi" width="80" height="50"/>
+      <img src="assets/ansible.svg" alt="ansible" width="80" height="50"/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Container Orchestration Systems</th>
+    <td>
+      <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="50"/>
+      <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="50" height="40"/>
+    </td>
+    <td>
+      <img alt="rancher" height="50" width="100" src="assets/rancher-logo.svg">
+    </td>
+  </tr>
+  <tr>
+    <th>Monitoring</th>
+    <td>
+      <img src="assets/prometheus-icon.svg" alt="prometheus" width="60" height="40"/>
+      <img src="assets/grafana-ar21.svg" alt="grafana" width="80" height="50"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/instana/instana-ar21.svg" alt="instana" width="90" height="50"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Log Management</th>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="logstash" width="80" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic"/>
+      <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="80" height="60"/>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/humio/humio-ar21.svg" alt="humio" width="90" height="50"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Secret Management</th>
+    <td></td>
+    <td>
+      <img src="assets/vault-logo.svg" alt="vault" width="100" height="80"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Service Mesh</th>
+    <td>
+      <img src="assets/istio-icon.svg" alt="istio" width="80" height="50"/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Automation Server</th>
+    <td></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="80" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Cloud Providers</th>
+    <td></td>
+    <td>
+      <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="60" height="60"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
 <p align="left">
