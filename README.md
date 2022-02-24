@@ -17,6 +17,40 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
 
+<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
+<p align="left">
+<img src="assets/certificates/cka.png" alt="cka" width="100" height="100"/> 
+<img src="assets/certificates/AWS-CP.png" alt="devops" width="100" height="100"/> 
+<img src="assets/certificates/terraform-associate.png" alt="terraform" width="100" height="100"/>
+</p>
+
+
+<h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
+
+ <!-- <div align="left">
+ <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/> -->
+
+
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Use Git Hooks for Shift Left on Continuous Integration](https://blog.kloia.com/how-to-use-git-hooks-for-shift-left-on-continuous-integration-67c6883b6ceb?source=rss-bb6d038e35e3------2)
+- [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+<h2 align="left"> ⚡ Recent Activity</h2>
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+
+<h2 align="left"> 📈  Github Stats</h2>
+<span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
+</span>
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
@@ -134,40 +168,6 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
   </tr>
 </table>
 
-<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
-<p align="left">
-<img src="assets/certificates/cka.png" alt="cka" width="100" height="100"/> 
-<img src="assets/certificates/AWS-CP.png" alt="devops" width="100" height="100"/> 
-<img src="assets/certificates/terraform-associate.png" alt="terraform" width="100" height="100"/>
-</p>
-
-
-<h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
-
- <!-- <div align="left">
- <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/> -->
-
-
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Use Git Hooks for Shift Left on Continuous Integration](https://blog.kloia.com/how-to-use-git-hooks-for-shift-left-on-continuous-integration-67c6883b6ceb?source=rss-bb6d038e35e3------2)
-- [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<h2 align="left"> ⚡ Recent Activity</h2>
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-
-
-<h2 align="left"> 📈  Github Stats</h2>
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-<img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
-</span>
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
