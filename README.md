@@ -159,21 +159,13 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [muhammedsaidkaya/ansible--molecule-example](https://github.com/muhammedsaidkaya/ansible--molecule-example)
-2. 📔 Created new repository [muhammedsaidkaya/mutating-webhook-golang](https://github.com/muhammedsaidkaya/mutating-webhook-golang)
-3. ⭐ Starred [liangrog/admission-webhook-server](https://github.com/liangrog/admission-webhook-server)
-4. 📔 Created new repository [muhammedsaidkaya/knowledge-sqlite-db](https://github.com/muhammedsaidkaya/knowledge-sqlite-db)
-5. 🔱 Forked [muhammedsaidkaya/tcpdump-alpine](https://github.com/muhammedsaidkaya/tcpdump-alpine) from [bilalunalnet/tcpdump-alpine](https://github.com/bilalunalnet/tcpdump-alpine)
-<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 24th, 2022, 10:16:06 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 <h2 align="left"> 📈  Github Stats</h2>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
 </span>
 
