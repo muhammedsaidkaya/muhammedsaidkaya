@@ -1,14 +1,48 @@
 
 <h2>👨‍💻 Whoami </h2>
 
-<p align="center" style="font-size:18px">
-  <samp>
-Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://www.kloia.com/">kloia</a>. I am trying to be Agile for edge technologies.
-  </samp>
+<p align="left" style="font-size:14px">
+<ul>
+  <li>
+    <samp>
+    Who willing to learn new things, constantly wants to improve himself and enjoys sharing knowledge. 
+    </samp>
+  </li>
   <br/>
+  <li>
+  <b>Experience</b>
+    <ul>
+      <li>
+        <samp>
+        Worked for <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>  as <b>Software Engineer</b> over 1 year. Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget. <b>Technology stack</b> is Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
+        </samp>
+      </li>
+      <br/>
+      <li>
+        <samp>
+        Currently working as <b>Platform Engineer</b> at <b><a href="https://www.kloia.com/">kloia</a></b>. Have been involved in Observability & Platform Development & Pipeline Projects.
+        </samp>
+      </li>
+    </ul>
+  </li>
   <br/>
-</p>
-
+  <li>
+    <b>Interests</b>
+    <ul>
+      <li>
+        <samp>
+        Main areas of interest are to specialize in distributed and high-available architectures and to develop platforms, automation codes, libraries be used by any product team.
+        </samp>
+      </li>
+      <br/>
+      <li>
+        <samp>
+        Goal is improving himself about Golang, Kubernetes, AWS and Observability Stack.
+        </samp>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 
 <h2>📫 How to reach me:</h2>
@@ -42,16 +76,8 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [muhammedsaidkaya/ansible--molecule-example](https://github.com/muhammedsaidkaya/ansible--molecule-example)
-2. 📔 Created new repository [muhammedsaidkaya/mutating-webhook-golang](https://github.com/muhammedsaidkaya/mutating-webhook-golang)
-3. ⭐ Starred [liangrog/admission-webhook-server](https://github.com/liangrog/admission-webhook-server)
-4. 📔 Created new repository [muhammedsaidkaya/knowledge-sqlite-db](https://github.com/muhammedsaidkaya/knowledge-sqlite-db)
-5. 🔱 Forked [muhammedsaidkaya/tcpdump-alpine](https://github.com/muhammedsaidkaya/tcpdump-alpine) from [bilalunalnet/tcpdump-alpine](https://github.com/bilalunalnet/tcpdump-alpine)
-<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 24th, 2022, 10:20:50 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 <h2 align="left"> 📈  Github Stats</h2>
