@@ -158,13 +158,9 @@ Hello, I'm Muhammed Said Kaya, working as Platform Engineer at <a href="https://
 
 <h2 align="left"> ⚡ Recent Activity</h2>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2/pull/1) in [muhammedsaidkaya/pulumi-golang-vpc-ec2](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2)
-2. 💪 Opened PR [#1](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2/pull/1) in [muhammedsaidkaya/pulumi-golang-vpc-ec2](https://github.com/muhammedsaidkaya/pulumi-golang-vpc-ec2)
-3. ❗️ Opened issue [#7](https://github.com/kloia/prometheus-custom-exporter/issues/7) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
-4. 🎉 Merged PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
-5. 💪 Opened PR [#6](https://github.com/kloia/prometheus-custom-exporter/pull/6) in [kloia/prometheus-custom-exporter](https://github.com/kloia/prometheus-custom-exporter)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 
 <h2 align="left"> 📈  Github Stats</h2>
