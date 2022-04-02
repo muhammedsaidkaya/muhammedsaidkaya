@@ -127,8 +127,7 @@ Last Updated: Monday, March 28th, 2022, 12:56:45 PM
 
 <img src="assets/opentelemetry.png" alt="opentelemetry" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg
-" alt="zipkin" width="80" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg" alt="zipkin" width="80" height="50"/>
 <img src="assets/prometheus-icon.svg" alt="prometheus" width="60" height="40"/>
 <img src="assets/grafana-ar21.svg" alt="grafana" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="logstash" width="80" height="60"/>
