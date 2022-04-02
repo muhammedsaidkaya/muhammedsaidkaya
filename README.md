@@ -96,6 +96,7 @@ Last Updated: Monday, March 28th, 2022, 12:56:45 PM
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
+<p align="left">
 <img src="assets/git-scm-ar21.svg" alt="git" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="80" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="linux" width="80" height="50"/>
@@ -139,6 +140,8 @@ Last Updated: Monday, March 28th, 2022, 12:56:45 PM
 <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg" alt="groovy" width="50" height="50"/>
 
 <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="60" height="60"/>
+
+<p/>
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
