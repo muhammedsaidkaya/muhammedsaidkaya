@@ -76,15 +76,15 @@
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [muhammedsaidkaya/spring-opentelemetry-manual-instrumentation](https://github.com/muhammedsaidkaya/spring-opentelemetry-manual-instrumentation)
-2. 📔 Created new repository [muhammedsaidkaya/spring-opentrace-opentelemetry](https://github.com/muhammedsaidkaya/spring-opentrace-opentelemetry)
-3. 📔 Created new repository [muhammedsaidkaya/ansible-collection-test](https://github.com/muhammedsaidkaya/ansible-collection-test)
-4. 📔 Created new repository [muhammedsaidkaya/chart-museum-test](https://github.com/muhammedsaidkaya/chart-museum-test)
-5. 📔 Created new repository [muhammedsaidkaya/ansible--molecule-example](https://github.com/muhammedsaidkaya/ansible--molecule-example)
+1. ⭐ Starred [ianmiell/bash-template](https://github.com/ianmiell/bash-template)
+2. 🔱 Forked [muhammedsaidkaya/gitops-certification-examples](https://github.com/muhammedsaidkaya/gitops-certification-examples) from [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples)
+3. 📔 Created new repository [muhammedsaidkaya/spring-opentelemetry-manual-instrumentation](https://github.com/muhammedsaidkaya/spring-opentelemetry-manual-instrumentation)
+4. 📔 Created new repository [muhammedsaidkaya/spring-opentrace-opentelemetry](https://github.com/muhammedsaidkaya/spring-opentrace-opentelemetry)
+5. 📔 Created new repository [muhammedsaidkaya/ansible-collection-test](https://github.com/muhammedsaidkaya/ansible-collection-test)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 2nd, 2022, 1:04:46 PM
+Last Updated: Monday, May 9th, 2022, 1:03:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
