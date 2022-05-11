@@ -54,10 +54,9 @@
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
 <p align="left">
 <img src="assets/certificates/cka.png" alt="cka" width="150" height="150"/> 
-<img src="assets/certificates/AWS-CP.jpeg" alt="aws" width="150" height="150"/> 
+<img src="assets/certificates/AWS-CP.png" alt="aws" width="150" height="150"/> 
 <img src="assets/certificates/terraform-associate.png" alt="terraform" width="150" height="150"/>
-<img src="assets/certificates/chip.jpeg" alt="terraform-chip" width="150" height="150"/>
-<img src="assets/certificates/gitops.png" alt="gitops" width="250" height="150"/>
+<img src="assets/certificates/Terraform-CHIP.png" alt="terraform-chip" width="150" height="150"/>
 </p>
 
 
@@ -99,7 +98,6 @@ Last Updated: Monday, May 9th, 2022, 1:03:49 PM
 
 <img src="assets/python-ar21.svg" alt="python" width="80" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="js" width="100" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" />
 <img src="assets/golang-ar21.svg" alt="golang" width="80" height="50"/>
@@ -107,8 +105,6 @@ Last Updated: Monday, May 9th, 2022, 1:03:49 PM
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo"/>
-<img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka"/>
 
 
 <img src="assets/packerio-ar21.svg" alt="packer" width="80" height="50"/>
@@ -118,6 +114,7 @@ Last Updated: Monday, May 9th, 2022, 1:03:49 PM
 
 <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="argo" width="80" height="50"/>
 <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="50" height="40"/>
 <img src="assets/istio-icon.svg" alt="istio" width="80" height="50"/>
 
