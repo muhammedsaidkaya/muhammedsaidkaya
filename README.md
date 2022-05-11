@@ -53,9 +53,11 @@
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
 <p align="left">
-<img src="assets/certificates/cka.png" alt="cka" width="100" height="100"/> 
-<img src="assets/certificates/AWS-CP.png" alt="devops" width="100" height="100"/> 
-<img src="assets/certificates/terraform-associate.png" alt="terraform" width="100" height="100"/>
+<img src="assets/certificates/cka.png" alt="cka" width="150" height="150"/> 
+<img src="assets/certificates/AWS-CP.jpeg" alt="aws" width="150" height="150"/> 
+<img src="assets/certificates/terraform-associate.png" alt="terraform" width="150" height="150"/>
+<img src="assets/certificates/chip.jpeg" alt="terraform-chip" width="150" height="150"/>
+<img src="assets/certificates/gitops.png" alt="gitops" width="250" height="150"/>
 </p>
 
 
@@ -87,12 +89,6 @@
 Last Updated: Monday, May 9th, 2022, 1:03:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-
-<h2 align="left"> 📈  Github Stats</h2>
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidkaya&hide=css,php,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-<img src="https://github-readme-stats.vercel.app/api?username=muhammedsaidkaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Muhammed Said Kaya's Github Stats"></img>
-</span>
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
