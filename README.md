@@ -77,15 +77,15 @@
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ahmetb/kubectx](https://github.com/ahmetb/kubectx)
-2. ⭐ Starred [ianmiell/bash-template](https://github.com/ianmiell/bash-template)
-3. 🔱 Forked [muhammedsaidkaya/gitops-certification-examples](https://github.com/muhammedsaidkaya/gitops-certification-examples) from [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples)
-4. 📔 Created new repository [muhammedsaidkaya/spring-opentelemetry-manual-instrumentation](https://github.com/muhammedsaidkaya/spring-opentelemetry-manual-instrumentation)
-5. 📔 Created new repository [muhammedsaidkaya/spring-opentrace-opentelemetry](https://github.com/muhammedsaidkaya/spring-opentrace-opentelemetry)
+1. 🔱 Forked [muhammedsaidkaya/bootcamp-aws-serverless](https://github.com/muhammedsaidkaya/bootcamp-aws-serverless) from [serkanbingol/bootcamp-aws-serverless](https://github.com/serkanbingol/bootcamp-aws-serverless)
+2. ⭐ Starred [dyslexicat/terraform-wordpress](https://github.com/dyslexicat/terraform-wordpress)
+3. 🔱 Forked [muhammedsaidkaya/java-operator-sdk](https://github.com/muhammedsaidkaya/java-operator-sdk) from [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk)
+4. ⭐ Starred [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk)
+5. ⭐ Starred [borakasmer/exchange-cli](https://github.com/borakasmer/exchange-cli)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 16th, 2022, 1:08:01 PM
+Last Updated: Monday, May 23rd, 2022, 1:04:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
