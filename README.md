@@ -77,15 +77,15 @@
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [quintush/helm-unittest](https://github.com/quintush/helm-unittest)
-2. 🔱 Forked [muhammedsaidkaya/bootcamp-aws-serverless](https://github.com/muhammedsaidkaya/bootcamp-aws-serverless) from [serkanbingol/bootcamp-aws-serverless](https://github.com/serkanbingol/bootcamp-aws-serverless)
-3. ⭐ Starred [dyslexicat/terraform-wordpress](https://github.com/dyslexicat/terraform-wordpress)
-4. 🔱 Forked [muhammedsaidkaya/java-operator-sdk](https://github.com/muhammedsaidkaya/java-operator-sdk) from [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk)
-5. ⭐ Starred [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk)
+1. 📔 Created new repository [muhammedsaidkaya/crud-api--container--golang-docker-client](https://github.com/muhammedsaidkaya/crud-api--container--golang-docker-client)
+2. ⭐ Starred [stroiman/go-automapper](https://github.com/stroiman/go-automapper)
+3. 💪 Opened PR [#113](https://github.com/yakuter/go-developer-list/pull/113) in [yakuter/go-developer-list](https://github.com/yakuter/go-developer-list)
+4. 🔱 Forked [muhammedsaidkaya/go-developer-list](https://github.com/muhammedsaidkaya/go-developer-list) from [yakuter/go-developer-list](https://github.com/yakuter/go-developer-list)
+5. 📔 Created new repository [muhammedsaidkaya/spring-otel-collector-prometheus-jaeger--auto-instrumentation](https://github.com/muhammedsaidkaya/spring-otel-collector-prometheus-jaeger--auto-instrumentation)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 30th, 2022, 1:09:05 PM
+Last Updated: Monday, June 6th, 2022, 1:06:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
