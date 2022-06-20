@@ -77,15 +77,15 @@
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [patrickmn/go-cache](https://github.com/patrickmn/go-cache)
-2. 🔱 Forked [muhammedsaidkaya/spring-security-demo](https://github.com/muhammedsaidkaya/spring-security-demo) from [huseyinbabal/spring-security-demo](https://github.com/huseyinbabal/spring-security-demo)
-3. ⭐ Starred [huseyinbabal/spring-security-demo](https://github.com/huseyinbabal/spring-security-demo)
-4. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/crud-api--container--golang-docker-client](https://github.com/muhammedsaidkaya/crud-api--container--golang-docker-client)
-5. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/crud-api--container--golang-docker-client](https://github.com/muhammedsaidkaya/crud-api--container--golang-docker-client)
+1. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/k8s-extensions--plugin-crd-validator.webhook](https://github.com/muhammedsaidkaya/k8s-extensions--plugin-crd-validator.webhook)
+2. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/python-ansible-collection-demo](https://github.com/muhammedsaidkaya/python-ansible-collection-demo)
+3. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/otel-auto-instrumentation-demo](https://github.com/muhammedsaidkaya/otel-auto-instrumentation-demo)
+4. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example)
+5. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 13th, 2022, 1:05:12 PM
+Last Updated: Monday, June 20th, 2022, 1:04:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
