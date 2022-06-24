@@ -104,7 +104,6 @@ Last Updated: Monday, June 20th, 2022, 1:04:47 PM
 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo"/>
 
 
 <img src="assets/packerio-ar21.svg" alt="packer" width="80" height="50"/>
@@ -123,10 +122,6 @@ Last Updated: Monday, June 20th, 2022, 1:04:47 PM
 <img src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg" alt="zipkin" width="80" height="50"/>
 <img src="assets/prometheus-icon.svg" alt="prometheus" width="60" height="40"/>
 <img src="assets/grafana-ar21.svg" alt="grafana" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="logstash" width="80" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic"/>
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="80" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/instana/instana-ar21.svg" alt="instana" width="90" height="50"/>
 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg" alt="groovy" width="50" height="50"/>
