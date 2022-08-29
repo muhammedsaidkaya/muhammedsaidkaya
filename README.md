@@ -77,15 +77,15 @@
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#328](https://github.com/instrumenta/kubeval/issues/328#issuecomment-1213300119) in [instrumenta/kubeval](https://github.com/instrumenta/kubeval)
-2. 💬 Commented on [#352](https://github.com/instrumenta/kubeval/issues/352#issuecomment-1213161739) in [instrumenta/kubeval](https://github.com/instrumenta/kubeval)
-3. ❗️ Opened issue [#352](https://github.com/instrumenta/kubeval/issues/352) in [instrumenta/kubeval](https://github.com/instrumenta/kubeval)
-4. ⭐ Starred [ahmetb/go-linq](https://github.com/ahmetb/go-linq)
-5. 🔱 Forked [muhammedsaidkaya/slack](https://github.com/muhammedsaidkaya/slack) from [slack-go/slack](https://github.com/slack-go/slack)
+1. ⭐ Starred [magefile/mage](https://github.com/magefile/mage)
+2. ⭐ Starred [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example)
+3. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/beat-processor-digest](https://github.com/muhammedsaidkaya/beat-processor-digest)
+4. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/beat-processor-digest](https://github.com/muhammedsaidkaya/beat-processor-digest)
+5. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/beat-processor-digest](https://github.com/muhammedsaidkaya/beat-processor-digest)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 22nd, 2022, 1:09:22 PM
+Last Updated: Monday, August 29th, 2022, 1:06:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
