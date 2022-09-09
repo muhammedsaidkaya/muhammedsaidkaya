@@ -20,7 +20,25 @@
       <br/>
       <li>
         <samp>
-        Currently working as <b>Platform Engineer</b> at <b><a href="https://www.kloia.com/">kloia</a></b>. Have been involved in Observability & Platform Development & Pipeline Projects.
+        Worked for <b><a href="https://www.kloia.com/">kloia</a></b>  as <b>Platform Engineer</b>. Involved in Observability & Platform Development & Automation Projects.
+        </samp>
+        <ul>
+          <li><samp><b>Automation:</b> Worked on the integration project of Jenkins Shared Library written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods.
+          </li></samp>
+          <li><samp><b>Platform:</b> Worked on the project of creating Upstream and Downstream Kubernetes Clusters and their integrated components in the private cloud as code.
+          </li></samp>
+          <li><samp><b>Observability:</b> Worked with APM(Instana) and Opensource observability technologies (Opentelemetry/Opentracing etc.) and how to get telemetry data in distributed architecture by manual/auto instrumentation.
+          </li></samp>
+          <li><samp><b>Automation:</b> Took part in the project of creating Git Hooks using Bash Scripting and Python for standardization of commit messages, build testing, and static code analysis.
+          </li></samp>
+          <li><samp><b>Platform:</b> Participated in the project of creating a Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter using Python.
+          </li></samp>
+        </ul>
+      </li>
+      <br/>
+      <li>
+        <samp>
+        Currently working as <b>Cloud & DevOps Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b> 
         </samp>
       </li>
     </ul>
@@ -44,26 +62,70 @@
   </li>
 </ul>
 
+<h2 align="left"> 💻 Tech Stack</h2>
 
-<h2>📫 How to reach me:</h2>
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/msaidkayaa)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
-
-
-<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">Certificates</a></h2>
 <p align="left">
-<img src="assets/certificates/cka.png" alt="cka" width="150" height="150"/> 
-<img src="assets/certificates/AWS-CP.png" alt="aws" width="150" height="150"/> 
-<img src="assets/certificates/terraform-associate.png" alt="terraform" width="150" height="150"/>
-<img src="assets/certificates/Terraform-CHIP.png" alt="terraform-chip" width="150" height="150"/>
+
+|   |   |   
+|---|---|
+|  Core Technologies | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/><img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="70" height="70"/><img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="70" height="70"/> | 
+|  Cloud Provider |  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="70"/> |  
+|  Serverless |  <img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="serverless" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="lambda" width="70" height="70"/> |  
+| Cloud Native Technologies | <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg" alt="containerd" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg" alt="k3s" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.png" alt="rancher" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg" alt="flux" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-ar21.svg" alt="k3s" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/falco/icon/color/falco-icon-color.png" alt="falco" width="40" height="40"/> |
+| Infrastructure as Code Tools | <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="70" height="70"/><img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="70" height="70"/><img src="assets/packerio-ar21.svg" alt="packer" width="70" height="70"/> |
+| Observability & Monitoring | <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/stacked/color/opentelemetry-stacked-color.svg" alt="opentelemetry" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg" alt="zipkin" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-ar21.svg" alt="fluentd" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="70" height="70"/> |
+| CI/CD | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg" alt="groovy" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="70" height="70"/><img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/github-actions.svg" alt="github-actions" width="70" height="70"/> |
+| PL/Library & Frameworks | <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="70" height="70"/> <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="70" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70" /><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"  width="70" height="70" /> |
+| Databases | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  width="70" height="70"/> |
+| Event Streaming Platform | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="70" height="70"/><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/aws-sqs.svg" alt="sqs" width="70" height="70"/> |
+| Caching | <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="70" height="70"/> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p/>
+
+
+
+<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">🎖 Certificates</a></h2>
+<p align="left">
+<img src="assets/certificates/cka.png" alt="cka" width="170" height="170"/> 
+<img src="assets/certificates/AWS-CP.png" alt="aws" width="170" height="170"/> 
+<img src="assets/certificates/terraform-associate.png" alt="terraform" width="170" height="170"/>
+<img src="assets/certificates/Terraform-CHIP.png" alt="terraform-chip" width="170" height="170"/>
 </p>
 
 
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
  <!-- <div align="left">
- <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/> -->
+ <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/> -->
 
 
 
@@ -89,46 +151,12 @@ Last Updated: Monday, September 5th, 2022, 1:07:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
-<h2 align="left"> 💻 Tech Stack</h2>
 
-<p align="left">
-<img src="assets/git-scm-ar21.svg" alt="git" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="linux" width="80" height="50"/>
+<h2>📫 How to reach me:</h2>
 
-<img src="assets/python-ar21.svg" alt="python" width="80" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" />
-<img src="assets/golang-ar21.svg" alt="golang" width="80" height="50"/>
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/msaidkayaa)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/>
-
-
-<img src="assets/packerio-ar21.svg" alt="packer" width="80" height="50"/>
-<img src="assets/terraform-logo.svg" alt="terraform" width="90" height="50"/>
-<img src="assets/pulumiio-ar21.svg" alt="pulumi" width="80" height="50"/>
-<img src="assets/ansible.svg" alt="ansible" width="80" height="50"/>
-
-<img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="argo" width="80" height="50"/>
-<img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="50" height="40"/>
-<img src="assets/istio-icon.svg" alt="istio" width="80" height="50"/>
-
-<img src="assets/opentelemetry.png" alt="opentelemetry" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="80" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg" alt="zipkin" width="80" height="50"/>
-<img src="assets/prometheus-icon.svg" alt="prometheus" width="60" height="40"/>
-<img src="assets/grafana-ar21.svg" alt="grafana" width="80" height="50"/>
-
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg" alt="groovy" width="50" height="50"/>
-
-<img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="60" height="60"/>
-
-<p/>
 
 <!--
 **muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
