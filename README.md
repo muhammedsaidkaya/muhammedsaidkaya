@@ -12,15 +12,15 @@
   <li>
   <b>Experience</b>
     <ul>
-      <li>
+       <li>
         <samp>
-        Worked for <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>  as <b>Software Engineer</b> over 1 year. Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget. <b>Technology stack</b> is Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
+        Currently working as <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b> 
         </samp>
       </li>
       <br/>
       <li>
         <samp>
-        Worked for <b><a href="https://www.kloia.com/">kloia</a></b>  as <b>Platform Engineer</b>. Involved in Observability & Platform Development & Automation Projects.
+        <b>2021 - 2022 -></b> Worked for <b><a href="https://www.kloia.com/">kloia</a></b>  as <b>Platform Engineer</b>. Involved in Observability & Platform Development & Automation Projects.
         </samp>
         <ul>
           <li><samp><b>Automation:</b> Worked on the integration project of Jenkins Shared Library written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods.
@@ -36,26 +36,9 @@
         </ul>
       </li>
       <br/>
-      <li>
+       <li>
         <samp>
-        Currently working as <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b> 
-        </samp>
-      </li>
-    </ul>
-  </li>
-  <br/>
-  <li>
-    <b>Interests</b>
-    <ul>
-      <li>
-        <samp>
-        Main areas of interest are to specialize in distributed and high-available architectures and to develop platforms, automation codes, libraries be used by any product team.
-        </samp>
-      </li>
-      <br/>
-      <li>
-        <samp>
-        Goal is improving himself about Golang, Kubernetes, Cloud Native Technologies and Observability Stack.
+        <b>2020 - 2021 -></b> Worked for <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>  as <b>Software Engineer</b> over 1 year. Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget. <b>Technology stack</b> is Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
         </samp>
       </li>
     </ul>
@@ -64,6 +47,8 @@
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
+Goal is improving himself about **Golang**, **Kubernetes**, **Cloud Native Technologies** and **Observability** Stack.
+
 <p align="left">
 
 |   |   |   
@@ -71,9 +56,9 @@
 |  Core Technologies | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/><img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="70" height="70"/><img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="70" height="70"/> | 
 |  Cloud Provider |  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="70"/> |  
 |  Serverless |  <img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="serverless" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" alt="lambda" width="70" height="70"/> |  
-| Cloud Native Technologies | <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg" alt="containerd" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg" alt="k3s" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.png" alt="rancher" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg" alt="flux" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-ar21.svg" alt="k3s" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/falco/icon/color/falco-icon-color.png" alt="falco" width="40" height="40"/> |
+| Cloud Native Technologies | <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg" alt="k3s" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.png" alt="rancher" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg" alt="flux" width="70" height="70"/><img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="k3s" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-ar21.svg" alt="k3s" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" width="70" height="70"/> |
 | Infrastructure as Code Tools | <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="70" height="70"/><img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="70" height="70"/><img src="assets/packerio-ar21.svg" alt="packer" width="70" height="70"/> |
-| Observability & Monitoring | <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/stacked/color/opentelemetry-stacked-color.svg" alt="opentelemetry" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/zipkinio/zipkinio-ar21.svg" alt="zipkin" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-ar21.svg" alt="fluentd" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="70" height="70"/> |
+| Observability & Monitoring | <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/stacked/color/opentelemetry-stacked-color.svg" alt="opentelemetry" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-ar21.svg" alt="fluentd" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="70" height="70"/> |
 | CI/CD | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg" alt="groovy" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="70" height="70"/><img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/github-actions.svg" alt="github-actions" width="70" height="70"/> |
 | PL/Library & Frameworks | <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="70" height="70"/> <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="70" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70" /><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"  width="70" height="70" /> |
 | Databases | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  width="70" height="70"/> |
