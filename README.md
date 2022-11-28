@@ -5,40 +5,52 @@
 <ul>
   <li>
     <samp>
-    Who willing to learn new things, constantly wants to improve himself and enjoys sharing knowledge. 
+    Who willing to learn new things, constantly wants to improve himself and enjoys sharing knowledge. Goal is improving himself about <b>Golang</b>, <b>Kubernetes</b>, <b>Cloud Native Technologies</b> and <b>Observability</b> Stack. 
     </samp>
   </li>
   <br/>
   <li>
-  <b>Experience</b>
+  <b>EXPERIENCE</b>
     <ul>
        <li>
         <samp>
-        Currently working as <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b> 
+        Currently working as <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b>
         </samp>
       </li>
       <br/>
+      <hr/>
       <li>
         <samp>
-        <b>2021 - 2022 -></b> Worked for <b><a href="https://www.kloia.com/">kloia</a></b>  as <b>Platform Engineer</b>. Involved in Observability & Platform Development & Automation Projects.
+        <b>2021 - 2022 -></b> Worked for <b><a href="https://www.kloia.com/">kloia</a></b>  as <b>Platform Engineer</b>. <i>Involved in <b>Observability & Platform Development & Automation Projects</b>.</i>
         </samp>
         <ul>
-          <li><samp><b>Automation:</b> Worked on the integration project of Jenkins Shared Library written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods.
+          <li><samp><b>Automation:</b> 
+            <ul>
+              <li>Worked on the integration project of <b>Jenkins Shared Library</b> written in <b>Groovy</b> for the CI / CD implementation of Adaptive Branching, one of the branching methods.</li>
+              <li>Took part in the project of creating <b>Git Hooks</b> using Bash Scripting and Python for standardization of commit messages, build testing, and static code analysis.</li>
+            </ul>
           </li></samp>
-          <li><samp><b>Platform:</b> Worked on the project of creating Upstream and Downstream Kubernetes Clusters and their integrated components in the private cloud as code.
+          <li><samp><b>Platform:</b> 
+            <ul>
+              <li>Worked on the project of creating <b>Upstream and Downstream Kubernetes Clusters</b> and their integrated components in the private cloud as code.</li>
+              <li>Participated in the project of creating a <b>Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter</b> using Python.</li>
+            </ul>
           </li></samp>
-          <li><samp><b>Observability:</b> Worked with APM(Instana) and Opensource observability technologies (Opentelemetry/Opentracing etc.) and how to get telemetry data in distributed architecture by manual/auto instrumentation.
-          </li></samp>
-          <li><samp><b>Automation:</b> Took part in the project of creating Git Hooks using Bash Scripting and Python for standardization of commit messages, build testing, and static code analysis.
-          </li></samp>
-          <li><samp><b>Platform:</b> Participated in the project of creating a Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter using Python.
+          <li><samp><b>Observability:</b> 
+             <ul>
+                <li>Worked with <b>APM(Instana)</b> and Opensource <b>observability</b> technologies (<b>Opentelemetry</b>/Opentracing etc.) and how to get telemetry data in <b>distributed architecture</b> by manual/auto instrumentation.</li>
+            </ul>
           </li></samp>
         </ul>
       </li>
       <br/>
+      <hr/>
        <li>
         <samp>
-        <b>2020 - 2021 -></b> Worked for <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>  as <b>Software Engineer</b> over 1 year. Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget. <b>Technology stack</b> is Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
+        <b>2020 - 2021 -></b> Worked for <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>  as <b>Software Engineer</b> over 1 year. Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget. 
+          <ul>
+            <b>Technology stack</b> is Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
+          </ul>
         </samp>
       </li>
     </ul>
@@ -47,7 +59,7 @@
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
-Goal is improving himself about **Golang**, **Kubernetes**, **Cloud Native Technologies** and **Observability** Stack.
+
 
 <p align="left">
 
