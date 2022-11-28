@@ -38,7 +38,7 @@
       <br/>
       <li>
         <samp>
-        Currently working as <b>Cloud & DevOps Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b> 
+        Currently working as <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b> 
         </samp>
       </li>
     </ul>
@@ -55,7 +55,7 @@
       <br/>
       <li>
         <samp>
-        Goal is improving himself about Golang, Kubernetes, AWS and Observability Stack.
+        Goal is improving himself about Golang, Kubernetes, Cloud Native Technologies and Observability Stack.
         </samp>
       </li>
     </ul>
