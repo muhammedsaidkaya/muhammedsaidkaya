@@ -23,13 +23,13 @@
                <br/><br/>
               <ul>
                 <li>
-                  Kubernetes, k3s, flux, GitOps, Kustomization controller for patching manifests
+                  <b>Kubernetes, k3s, flux, GitOps</b>, Kustomization controller for patching manifests
                 </li>
                 <li>
                   Mozilla sops for encrypting secrets and configmaps
                 </li>
                 <li>
-                  Nginx Ingress Controller & TLS
+                  Nginx Ingress Controller & TLS (Self-signed and Lets Encrypt)
                 </li>    
                 <li>
                   Loki for collecting Kubernetes API audit logs, Prometheus & Grafana for metrics.
@@ -42,7 +42,7 @@
                <br/><br/>
               <ul>
                 <li>
-                  Slack bot and Notifications -> Written in Golang, Python and Bash script. For running some scripts like deploying applications on development environments.
+                  <b>Slack Bot and Notifications</b> -> Written in Golang, Python and Bash script. For running some scripts like deploying applications on development environments.
                 </li>
               </ul>
               <br/>
@@ -52,7 +52,7 @@
                <br/><br/>
               <ul>
                 <li>
-                  Filebeat custom processors and Elasticsearch for collecting logs.
+                  <b>Filebeat Custom Processors and Elasticsearch</b> for collecting logs.
                 </li>
                 <li>
                   Newrelic APM for collecting telemetry data and also synthetic monitoring for testing production environments.
@@ -65,7 +65,7 @@
               <br/><br/>
               <ul>
                 <li>
-                  Zero trust OpenVPN platform ( 2fa with google authenticator) by using Slack Bot. (self-service).
+                  Zero trust <b>OpenVPN Platform</b> ( 2fa with Google Authenticator) by using Slack Bot. (self-service).
                 </li>
               </ul>
               <br/>
@@ -75,43 +75,43 @@
               <br/><br/>
               <ul>
                 <li>
-                  /Route53 - DNS Service.
+                  <b>Route53</b> - DNS Service.
                 </li>
                 <li>
-                  /WAF for Security
+                  <b>WAF</b> for Security
                 </li>
                 <li>
-                  /ALB for Routing
+                  <b>ALB</b> for Routing
                 </li>
                 <li>
-                  /ECS (EC2 Launch Type) for deploying applications
+                  <b>ECS</b> (EC2 Launch Type) for deploying applications
                 </li>
                 <li>
-                  /RDS for production database (Row-Level Security is enabled for multi-tenancy)
-                </li>
-                 <li>
-                  /SQS & SNS for Event Mechanism and Also for creating Opsgenie Alerts
-                </li>
-                <li>
-                  /SES for sending emails
+                  <b>RDS</b> for Production Database (Row-Level Security is enabled for multi-tenancy)
                 </li>
                  <li>
-                  /Cloudwatch for Logs
+                   <b>SQS & SNS</b> for Event Mechanism and also for creating Opsgenie Alerts
                 </li>
                 <li>
-                  /Lambda( with serverless - Cloudformation stack ) and Eventbridge for monitoring events
+                  <b>SES</b> for sending emails
+                </li>
+                 <li>
+                   <b>Cloudwatch</b> for Logs
+                </li>
+                <li>
+                  <b>Lambda</b>( with Serverless - Cloudformation stack ) and <b>Eventbridge</b> for monitoring events
                 </li>  
                 <li>
-                  /ECR (Image repository)
+                  <b>ECR</b> (Image repository)
                 </li>  
                 <li>
-                  /S3 (configuration repository)
+                  <b>S3</b> (Configuration repository)
                 </li>  
                 <li>
-                  /IAM and Organizations for Account Management
+                  <b>IAM and Organizations</b> for Account Management
                 </li>  
                 <li>
-                  /System Manager (Documents & Automation for executing commands on EC2 Nodes)
+                  <b>System Manager</b> (Documents & Automation for executing commands on EC2 Nodes)
                 </li>                  
               </ul>
               <br/>
@@ -137,7 +137,7 @@
               <br/><br/>
               <ul>
                 <li>
-                  Terraform AWS provider Custom Modules (all infrastructure on AWS), S3 Backend.
+                  <b>Terraform AWS provider</b> Custom Modules (all infrastructure on AWS), S3 Backend.
                 </li>               
               </ul>
               <br/>
