@@ -1,225 +1,221 @@
-
 <h2>👨‍💻 Whoami </h2>
-
-<p align="left" style="font-size:14px">
 <ul>
   <li>
     <samp>
     Who willing to learn new things, constantly wants to improve himself and enjoys sharing knowledge. Goal is improving himself about <b>Golang</b>, <b>Kubernetes</b>, <b>Cloud Native Technologies</b> and <b>Observability</b> Stack. 
     </samp>
   </li>
-  <br/>
-  <li>
-  <b>EXPERIENCE</b>
-    <ul>
-       <li>
-        <samp>
-        <b>(2022 - to Current)</b> working as <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b>
-        <br/><br/>
-          <p><i>Topics and Technologies that I have worked on. In order from most to least.</i></p>
-          <ol type="1">
-            <li>
-              <b>CLOUD NATIVE ENVIRONMENT</b>
-               <br/><br/>
-              <ul>
-                <li>
-                  <b>Kubernetes, k3s, flux, GitOps</b>, Kustomization controller for patching manifests
-                </li>
-                <li>
-                  Mozilla sops for encrypting secrets and configmaps
-                </li>
-                <li>
-                  Nginx Ingress Controller & TLS (Self-signed and Lets Encrypt)
-                </li>    
-                <li>
-                  Loki for collecting Kubernetes API audit logs, Prometheus & Grafana for metrics.
-                </li>                 
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>CHATOPS</b>
-               <br/><br/>
-              <ul>
-                <li>
-                  <b>Slack Bot and Notifications</b> -> Written in Golang, Python and Bash script. For running some scripts like deploying applications on development environments.
-                </li>
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>OBSERVABILITY</b>
-               <br/><br/>
-              <ul>
-                <li>
-                  <b>Filebeat Custom Processors and Elasticsearch</b> for collecting logs.
-                </li>
-                <li>
-                  Newrelic APM for collecting telemetry data and also synthetic monitoring for testing production environments.
-                </li>                
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>SECURITY HARDENING</b>
-              <br/><br/>
-              <ul>
-                <li>
-                  Zero trust <b>OpenVPN Platform</b> ( 2fa with Google Authenticator) by using Slack Bot. (self-service).
-                </li>
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>SOFTWARE AS A SERVICE APPLICATION (AWS)</b>
-              <br/><br/>
-              <ul>
-                <li>
-                  <b>Route53</b> - DNS Service.
-                </li>
-                <li>
-                  <b>WAF</b> for Security
-                </li>
-                <li>
-                  <b>ALB</b> for Routing
-                </li>
-                <li>
-                  <b>ECS</b> (EC2 Launch Type) for deploying applications
-                </li>
-                <li>
-                  <b>RDS</b> for Production Database (Row-Level Security is enabled for multi-tenancy)
-                </li>
-                 <li>
-                   <b>SQS & SNS</b> for Event Mechanism and also for creating Opsgenie Alerts
-                </li>
-                <li>
-                  <b>SES</b> for sending emails
-                </li>
-                 <li>
-                   <b>Cloudwatch</b> for Logs
-                </li>
-                <li>
-                  <b>Lambda</b>( with Serverless - Cloudformation stack ) and <b>Eventbridge</b> for monitoring events
-                </li>  
-                <li>
-                  <b>ECR</b> (Image repository)
-                </li>  
-                <li>
-                  <b>S3</b> (Configuration repository)
-                </li>  
-                <li>
-                  <b>IAM and Organizations</b> for Account Management
-                </li>  
-                <li>
-                  <b>System Manager</b> (Documents & Automation for executing commands on EC2 Nodes)
-                </li>                  
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>SYSTEM ADMINISTRATOR ISSUES</b>
-              <br/><br/>
-              <ul>
-                <li>
-                  Collecting Audit and Secure Logs of EC2 Nodes with Rsyslog Clients and Rsyslog Servers
-                </li>
-                 <li>
-                  Installing Splunkforwarders for sending audit logs to the Splunk Server.
-                </li>
-                <li>
-                  Prometheus Custom Exporter with Telegraf, and Alertmanager.
-                </li>                
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>INFRASTRUCTURE AS CODE TOOLS</b>
-              <br/><br/>
-              <ul>
-                <li>
-                  <b>Terraform AWS provider</b> Custom Modules (all infrastructure on AWS), S3 Backend.
-                </li>               
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>AUTOMATION (CI/CD)</b>
-              <br/><br/>
-              <ul>
-                <li>
-                  Github Actions and Gitlab CI.
-                </li>               
-              </ul>
-              <br/>
-            </li>
-            <li>
-              <b>DORA METRICS</b>
-              <br/><br/>
-              <ul>
-                <li>
-                  Measuring Software Delivery Performance. Collecting all measurements of processes like operated slack commands, number of pull requests, Jira issues, deployment frequencies and etc.
-(Backend: Go - Frontend: React application). For collecting data on the RDS Database, webhooks and AWS Lambda are used.
-                </li>               
-              </ul>
-              <br/>
-            </li>
-          </ol>
-        </samp>
-      </li>
-      <br/>
-      <hr/>
-      <li>
-        <samp>
-        <b>(2021 - 2022)</b> Worked for <b><a href="https://www.kloia.com/">kloia</a></b>  as <b>Platform Engineer</b>. 
-        <br/><br/>
-          <p><i>Involved in <b>Observability & Platform Development & Automation Projects</b>.</i></p>
-        </samp>
+ </ul>
+ 
+ 
+ 
+ 
+ <h2> Experience </h2>
+ <ul>
+     <li>
+      <samp>
+      <ins><h3><b>(2022 - to Current)</b> | <b>Cloud Software Engineer</b> at <b><a href="https://www.picussecurity.com/">Picus Security.</a></b></h3></ins>
+        <p><i>Topics and Technologies that I have worked on. In order from most to least.</i></p>
         <ol type="1">
-          <li><samp><b>AUTOMATION</b> 
+          <li>
+            <b>CLOUD NATIVE ENVIRONMENT</b>
+             <br/><br/>
             <ul>
-              <br/>
-              <li>Worked on the integration project of <b>Jenkins Shared Library</b> written in <b>Groovy</b> for the CI / CD implementation of Adaptive Branching, one of the branching methods.</li>
-              <li>Took part in the project of creating <b>Git Hooks</b> using Bash Scripting and Python for standardization of commit messages, build testing, and static code analysis.</li>
-              <br/>
+              <li>
+                <b>Kubernetes, k3s, flux, GitOps</b>, Kustomization controller for patching manifests
+              </li>
+              <li>
+                Mozilla sops for encrypting secrets and configmaps
+              </li>
+              <li>
+                Nginx Ingress Controller & TLS (Self-signed and Lets Encrypt)
+              </li>    
+              <li>
+                Loki for collecting Kubernetes API audit logs, Prometheus & Grafana for metrics.
+              </li>                 
             </ul>
-          </li></samp>
-          <li><samp><b>PLATFORM</b> 
+            <br/>
+          </li>
+          <li>
+            <b>CHATOPS</b>
+             <br/><br/>
             <ul>
-              <br/>
-              <li>Worked on the project of creating <b>Upstream and Downstream Kubernetes Clusters</b> and their integrated components in the private cloud as code.</li>
-              <li>Participated in the project of creating a <b>Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter</b> using Python.</li>
-              <br/>
+              <li>
+                <b>Slack Bot and Notifications</b> -> Written in Golang, Python and Bash script. For running some scripts like deploying applications on development environments.
+              </li>
             </ul>
-          </li></samp>
-          <li><samp><b>OBSERVABILITY</b> 
-             <ul>
-               <br/>
-                <li>Worked with <b>APM(Instana)</b> and Opensource <b>observability</b> technologies (<b>Opentelemetry</b>/Opentracing etc.) and how to get telemetry data in <b>distributed architecture</b> by manual/auto instrumentation.</li>
-               <br/>
+            <br/>
+          </li>
+          <li>
+            <b>OBSERVABILITY</b>
+             <br/><br/>
+            <ul>
+              <li>
+                <b>Filebeat Custom Processors and Elasticsearch</b> for collecting logs.
+              </li>
+              <li>
+                Newrelic APM for collecting telemetry data and also synthetic monitoring for testing production environments.
+              </li>                
             </ul>
-          </li></samp>
+            <br/>
+          </li>
+          <li>
+            <b>SECURITY HARDENING</b>
+            <br/><br/>
+            <ul>
+              <li>
+                Zero trust <b>OpenVPN Platform</b> ( 2fa with Google Authenticator) by using Slack Bot. (self-service).
+              </li>
+            </ul>
+            <br/>
+          </li>
+          <li>
+            <b>SOFTWARE AS A SERVICE APPLICATION (AWS)</b>
+            <br/><br/>
+            <ul>
+              <li>
+                <b>Route53</b> - DNS Service.
+              </li>
+              <li>
+                <b>WAF</b> for Security
+              </li>
+              <li>
+                <b>ALB</b> for Routing
+              </li>
+              <li>
+                <b>ECS</b> (EC2 Launch Type) for deploying applications
+              </li>
+              <li>
+                <b>RDS</b> for Production Database (Row-Level Security is enabled for multi-tenancy)
+              </li>
+               <li>
+                 <b>SQS & SNS</b> for Event Mechanism and also for creating Opsgenie Alerts
+              </li>
+              <li>
+                <b>SES</b> for sending emails
+              </li>
+               <li>
+                 <b>Cloudwatch</b> for Logs
+              </li>
+              <li>
+                <b>Lambda</b>( with Serverless - Cloudformation stack ) and <b>Eventbridge</b> for monitoring events
+              </li>  
+              <li>
+                <b>ECR</b> (Image repository)
+              </li>  
+              <li>
+                <b>S3</b> (Configuration repository)
+              </li>  
+              <li>
+                <b>IAM and Organizations</b> for Account Management
+              </li>  
+              <li>
+                <b>System Manager</b> (Documents & Automation for executing commands on EC2 Nodes)
+              </li>                  
+            </ul>
+            <br/>
+          </li>
+          <li>
+            <b>SYSTEM ADMINISTRATOR ISSUES</b>
+            <br/><br/>
+            <ul>
+              <li>
+                Collecting Audit and Secure Logs of EC2 Nodes with Rsyslog Clients and Rsyslog Servers
+              </li>
+               <li>
+                Installing Splunkforwarders for sending audit logs to the Splunk Server.
+              </li>
+              <li>
+                Prometheus Custom Exporter with Telegraf, and Alertmanager.
+              </li>                
+            </ul>
+            <br/>
+          </li>
+          <li>
+            <b>INFRASTRUCTURE AS CODE TOOLS</b>
+            <br/><br/>
+            <ul>
+              <li>
+                <b>Terraform AWS provider</b> Custom Modules (all infrastructure on AWS), S3 Backend.
+              </li>               
+            </ul>
+            <br/>
+          </li>
+          <li>
+            <b>AUTOMATION (CI/CD)</b>
+            <br/><br/>
+            <ul>
+              <li>
+                Github Actions and Gitlab CI.
+              </li>               
+            </ul>
+            <br/>
+          </li>
+          <li>
+            <b>DORA METRICS</b>
+            <br/><br/>
+            <ul>
+              <li>
+                Measuring Software Delivery Performance. Collecting all measurements of processes like operated slack commands, number of pull requests, Jira issues, deployment frequencies and etc.
+(Backend: Go - Frontend: React application). For collecting data on the RDS Database, webhooks and AWS Lambda are used.
+              </li>               
+            </ul>
+            <br/>
+          </li>
         </ol>
-      </li>
-      <br/>
-      <hr/>
-       <li>
-        <samp>
-        <b>(2020 - 2021)</b> Worked for <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>  as <b>Software Engineer</b> over 1 year. Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget. 
+      </samp>
+    </li>
+    <br/>
+    <hr/>
+    <li>
+      <samp>
+        <ins><h3><b>(2021 - 2022)</b> | <b>Platform Engineer</b> at <b><a href="https://www.kloia.com/">kloia</a></b>.</h3></ins> 
+        <p><i>Involved in <b>Observability & Platform Development & Automation Projects</b>.</i></p>
+      </samp>
+      <ol type="1">
+        <li><samp><b>AUTOMATION</b> 
           <ul>
             <br/>
-            <b>Technology stack</b> is Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
+            <li>Worked on the integration project of <b>Jenkins Shared Library</b> written in <b>Groovy</b> for the CI / CD implementation of Adaptive Branching, one of the branching methods.</li>
+            <li>Took part in the project of creating <b>Git Hooks</b> using Bash Scripting and Python for standardization of commit messages, build testing, and static code analysis.</li>
             <br/>
           </ul>
-        </samp>
-      </li>
-    </ul>
-  </li>
+        </li></samp>
+        <li><samp><b>PLATFORM</b> 
+          <ul>
+            <br/>
+            <li>Worked on the project of creating <b>Upstream and Downstream Kubernetes Clusters</b> and their integrated components in the private cloud as code.</li>
+            <li>Participated in the project of creating a <b>Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter</b> using Python.</li>
+            <br/>
+          </ul>
+        </li></samp>
+        <li><samp><b>OBSERVABILITY</b> 
+           <ul>
+             <br/>
+              <li>Worked with <b>APM(Instana)</b> and Opensource <b>observability</b> technologies (<b>Opentelemetry</b>/Opentracing etc.) and how to get telemetry data in <b>distributed architecture</b> by manual/auto instrumentation.</li>
+             <br/>
+          </ul>
+        </li></samp>
+      </ol>
+    </li>
+    <br/>
+    <hr/>
+     <li>
+      <samp>
+      <ins><h3><b>(2020 - 2021)</b> | <b>Software Engineer</b> at <b><a href="https://yte.bilgem.tubitak.gov.tr/">Tübitak Bilgem YTE</a></b>.</h3></ins> 
+        <p><i>Involved in BKMYBS project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget.</b></i></p>
+        <ul>
+          <br/>
+          <b>Technology stack</b> was Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web Services. (Microservice Architecture)
+          <br/>
+        </ul>
+      </samp>
+    </li>
 </ul>
 
+
+
 <h2 align="left"> 💻 Tech Stack</h2>
-
-
-
 <p align="left">
 
 |   |   |   
@@ -235,36 +231,6 @@
 | Databases | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  width="70" height="70"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  width="70" height="70"/> |
 | Event Streaming Platform | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="70" height="70"/><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/aws-sqs.svg" alt="sqs" width="70" height="70"/> |
 | Caching | <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="70" height="70"/> |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p/>
 
 
@@ -279,11 +245,6 @@
 
 
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
-
- <!-- <div align="left">
- <a href="https://medium.com/@muhammedsaidkaya" style="padding-left:10px"><img alt="Medium" height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg"/> -->
-
-
 
 <!-- BLOG-POST-LIST:START -->
 - [Adding Custom Metadata While Sending Logs with Filebeat](https://medium.com/picus-security-engineering/adding-custom-metadata-while-sending-logs-with-filebeat-ee72815bb34e?source=rss-bb6d038e35e3------2)
@@ -314,18 +275,3 @@ Last Updated: Monday, November 28th, 2022, 12:56:20 PM
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/uzumlukek_mk)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
-
-<!--
-**muhammedsaidkaya/muhammedsaidkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
