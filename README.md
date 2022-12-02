@@ -247,6 +247,7 @@
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing of Production-Ready Applications on the Local Kubernetes Environment](https://medium.com/picus-security-engineering/testing-of-production-ready-applications-on-the-local-kubernetes-environment-b1b0efc67b95?source=rss-bb6d038e35e3------2)
 - [Adding Custom Metadata While Sending Logs with Filebeat](https://medium.com/picus-security-engineering/adding-custom-metadata-while-sending-logs-with-filebeat-ee72815bb34e?source=rss-bb6d038e35e3------2)
 - [How to Use Git Hooks for Shift Left on Continuous Integration](https://blog.kloia.com/how-to-use-git-hooks-for-shift-left-on-continuous-integration-67c6883b6ceb?source=rss-bb6d038e35e3------2)
 - [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
