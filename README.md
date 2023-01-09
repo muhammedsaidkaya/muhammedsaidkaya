@@ -259,15 +259,15 @@
 <h2 align="left"> ⚡ Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CemalUnal/highly-available-elasticsearch-on-kubernetes](https://github.com/CemalUnal/highly-available-elasticsearch-on-kubernetes)
-2. ⭐ Starred [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator)
-3. ⭐ Starred [kloia/ctower](https://github.com/kloia/ctower)
-4. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go](https://github.com/muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go)
-5. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go](https://github.com/muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go)
+1. ⭐ Starred [CemalUnal/highly-available-elasticsearch-on-kubernetes](https://github.com/CemalUnal/highly-available-elasticsearch-on-kubernetes)<br>
+2. ⭐ Starred [zufardhiyaulhaq/ngrok-operator](https://github.com/zufardhiyaulhaq/ngrok-operator)<br>
+3. ⭐ Starred [kloia/ctower](https://github.com/kloia/ctower)<br>
+4. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go](https://github.com/muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go)<br>
+5. ⬆️ Pushed 1 commit(s) to [muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go](https://github.com/muhammedsaidkaya/trace-log-correlation-with-opentelemetry-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 2nd, 2023, 12:52:05 PM
+Last Updated: Monday, January 9th, 2023, 12:52:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
