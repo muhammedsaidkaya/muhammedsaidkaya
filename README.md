@@ -19,7 +19,7 @@
  <span>
     <img src="assets/experience.png" alt="experience"/>
     <span>
-      <img src="assets/tech_stack.png" alt="tech_stack"/>
+      <img src="assets/tech_stack.png" alt="tech_stack" width="400" height="900"/>
     </span>
  </span>
 
