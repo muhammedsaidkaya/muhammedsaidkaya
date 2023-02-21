@@ -19,9 +19,9 @@
 <div style="width: 100vw; display:flex;">
   <div style="width: 40%;margin-left: 8em;">
     <h1 style="color: #dd6b50">WORK EXPERIENCE</h1>
-    <div style="text-align: justify" >
-      <h2><b>Cloud Software Engineer - DevOps</b></h2>
-      <h2 style='text-align: right;' ><b>Picus Security</b></h2>
+    <div style="text-align: right" >
+      <p><b>Cloud Software Engineer - DevOps</b></p>
+      <p><b>Picus Security</b></p>
     </div>
     <div style="display: flex; justify-content: space-between">
       <h3 style="color: gray" ;>07/2022 - Present</h3>
