@@ -39,10 +39,7 @@ Authenticator)</b>
       <br/>
     </ul>
     <h2><b>Platform Engineer - kloia</b></h2>
-    <div style="display: flex; justify-content: space-between">
-      <h3 style="color: gray" ;>08/2021 - 07/2022</h3>
-      <h3 style="color: gray" ;>London - UK</h3>
-    </div>
+    <h3>08/2021 - 07/2022&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;London - UK</h3>
     <h4 style="color: gray" ;>
       <i
         >kloia is a new-era consultancy company who is an accelerator for closing the technology gap through the adoption of modern practices in Cloud, DevOps, Test Automation and Microservices.</i
