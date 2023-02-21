@@ -18,10 +18,10 @@
  
 
 <div style="display:block; width:100%;">
-  <div style="width:60%; float: left; display: inline-block;">
+  <span style="width:60%; float: left;">
     <img src="assets/experience.png" alt="experience" />
-  </div>
-  <div style="width:40%; float: left; display: inline-block;">
+  </span>
+  <span style="width:40%; float: left;">
     <span>
       <img src="assets/certificates/cka.png" alt="cka" width="25%"/> 
       <img src="assets/certificates/AWS-CP.png" alt="aws"  width="25%" /> 
@@ -30,7 +30,7 @@
     <span>
       <img src="assets/tech_stack.png" alt="tech_stack" /> 
     </span>
-  </div>
+  </span>
 </div>
  
 
