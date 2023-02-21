@@ -15,11 +15,6 @@
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/uzumlukek_mk)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
- 
- <div >
-
- </div>
-
  <div style="display:block; width:100%;">
   <span style="width:50%; float: left;">
       <img src="assets/experience.png" alt="experience" width="380px" />
