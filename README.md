@@ -168,11 +168,6 @@ to meet the digital transformation needs of public institutions.</i
             width="70"
             height="70"
           /><img
-            src="https://www.vectorlogo.zone/logos/goharborio/goharborio-ar21.svg"
-            alt="k3s"
-            width="70"
-            height="70"
-          /><img
             src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"
             alt="istio"
             width="70"
