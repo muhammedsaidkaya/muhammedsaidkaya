@@ -20,7 +20,7 @@
     <span >
         <img src="assets/experience.png" alt="experience" width="50%"/>
     </span>
-    <span style="display:flex;vertical-align:middle;" >
+    <span style="display:flex;justify-content:between;top:50%" >
         <img src="assets/tech_stack.png" alt="tech_stack" width="40%"  /> 
     </span>
  </div>
