@@ -18,10 +18,10 @@
  
  <div style="display:flex;">
     <span >
-        <img src="assets/experience.png" alt="experience" width="100%"/>
+        <img src="assets/experience.png" alt="experience" width="50%"/>
     </span>
     <span style="display:flex;justify-content:center;" >
-        <img src="assets/tech_stack.png" alt="tech_stack" width="80%"  /> 
+        <img src="assets/tech_stack.png" alt="tech_stack" width="50%"  /> 
     </span>
  </div>
  
