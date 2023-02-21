@@ -17,13 +17,17 @@
 
  
  <div >
-  <span>
+
+ </div>
+
+ <div style="display:block; width:100%;">
+  <span style="width:50%; float: left;">
       <img src="assets/experience.png" alt="experience" width="380px" />
   </span>
-  <span>
+  <span style="width:50%; float: left;">
       <img src="assets/tech_stack.png" alt="tech_stack"  width="380px" />
   </span>
- </div>
+</div>
  
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">🎖 Certificates</a></h2>
