@@ -21,7 +21,7 @@
     <h1 style="color: #dd6b50">WORK EXPERIENCE</h1>
     <div style="display: flex; justify-content: space-between" >
       <span><b>Cloud Software Engineer - DevOps</b></span>
-      <span><b>Picus Security</b></span>
+      <span align="right" ><b>Picus Security</b></span>
     </div>
     <div style="display: flex; justify-content: space-between">
       <h3 style="color: gray" ;>07/2022 - Present</h3>
