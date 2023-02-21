@@ -61,10 +61,7 @@ Authenticator)</b>
       <br/>
     </ul>
     <h2><b>Software Engineer - Tübitak Bilgem YTE</b></h2>
-    <div style="display: flex; justify-content: space-between">
-      <h3 style="color: gray" ;>10/2020 - 08/2021</h3>
-      <h3 style="color: gray" ;>Ankara - Turkey</h3>
-    </div>
+    <h3>10/2020 - 08/2021&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;Ankara - Turkey</h3>
     <h4 style="color: gray" ;>
       <i
         >Tübitak Bilgem YTE develops R&D-oriented software solutions in order
