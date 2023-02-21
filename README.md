@@ -23,7 +23,7 @@
         <h3  style="display: inline-block;" align="left" >07/2022 - Present</h3>
       </span>
       <span>
-        <h3  style="display: inline-block;" align="center" >San Francisco, California</h3>
+        <h3  style="display: inline-block;" align="left" >San Francisco, California</h3>
       </span>
     </div>
     <ul style="list-style-type:none;" >
