@@ -18,10 +18,10 @@
  
  <div >
   <span>
-      <img src="assets/experience.png" alt="experience" width="40%" />
+      <img src="assets/experience.png" alt="experience" width="350px" />
   </span>
   <span>
-      <img src="assets/tech_stack.png" alt="tech_stack"  width="60%" />
+      <img src="assets/tech_stack.png" alt="tech_stack"  width="500px" />
   </span>
  </div>
  
