@@ -19,7 +19,7 @@
 <div style="width: 100vw; display:flex;">
   <div style="width: 40%;margin-left: 8em;">
     <h1 style="color: #dd6b50">WORK EXPERIENCE</h1>
-    <div style="display: flex;" >
+    <div style="display: flex; justify-content: space-between" >
       <p><b>Cloud Software Engineer - DevOps</b></p>
       <p><b>Picus Security</b></p>
     </div>
