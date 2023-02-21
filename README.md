@@ -54,7 +54,6 @@ Authenticator)</b>
         >kloia is a new-era consultancy company who is an accelerator for closing the technology gap through the adoption of modern practices in Cloud, DevOps, Test Automation and Microservices.</i
       >
     </h4>
-    <br/>
     <ul style="list-style-type:none;">
       <li>
         Worked on the integration project of <b>Jenkins Shared Library</b> written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods.
@@ -81,7 +80,6 @@ Authenticator)</b>
 to meet the digital transformation needs of public institutions.</i
       >
     </h4>
-    <br/>
     <ul style="list-style-type:none;">
       <li>
         Involved in <b>"BKMYBS"</b> project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget.
