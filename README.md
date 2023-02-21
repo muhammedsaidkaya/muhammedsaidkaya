@@ -18,7 +18,7 @@
   <div style="width: 40%;margin-left: 8em;">
     <h1> 👨🏽‍💻 WORK EXPERIENCE</h1>
     <h2><b>Cloud Software Engineer - Picus Security</b></h2>
-    <div  style="display: flex; justify-content: space-between">
+    <div>
       <h3 align="left" style="color: gray" ;>07/2022 - Present</h3>
       <h3 align="right" style="color: gray" ;>San Francisco, California</h3>
     </div>
