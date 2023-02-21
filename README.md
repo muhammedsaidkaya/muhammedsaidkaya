@@ -26,21 +26,21 @@
     </div>
     <ul style="list-style-type:none;" >
       <li>
-        Provisioning K3S Kubernetes Cluster and deploying
-applications with the GitOps Flux CD.
+        Provisioning <b>K3S Kubernetes Cluster</b> and deploying
+applications with the <b>GitOps Flux CD.</b>
       </li>
       <li>
-        Zero trust OpenVPN Community Platform ( 2fa with Google
-Authenticator)
+        Zero trust <b>OpenVPN Community Platform ( 2fa with Google
+Authenticator)</b>
       </li>
       <li>
-        Slack Bot which is written in Golang, Python and Bash script.
+        Slack Bot which is written in <b>Golang, Python</b> and <b>Bash script.</b>
       </li>
       <li>
         Filebeat Custom Processors and Elasticsearch for collecting logs. (AWS Opensearch)
       </li>
       <li>
-        Provisioning all AWS infrastructure with Terraform and serverless . (Route53, WAF, ALB, ECS, RDS, Elasticache, SQS, SNS, Cloudwatch, Lambda, ECR, S3 and IAM)
+        Provisioning <b>all AWS infrastructure</b> with <b>Terraform</b> and <b>serverless</b> . (Route53, WAF, ALB, ECS, RDS, Elasticache, SQS, SNS, Cloudwatch, Lambda, ECR, S3 and IAM)
       </li>
       <br/>
     </ul>
@@ -57,16 +57,16 @@ Authenticator)
     <br/>
     <ul style="list-style-type:none;">
       <li>
-        Worked on the integration project of Jenkins Shared Library written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods.
+        Worked on the integration project of <b>Jenkins Shared Library</b> written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods.
       </li>
       <li>
-        Worked on the project of creating Upstream and Downstream Kubernetes Clusters and their integrated components in the private cloud as code.
+        Worked on the project of creating <b>Upstream and Downstream Kubernetes Clusters</b> and their integrated components in the private cloud as code.
       </li>
       <li>
-        Participated in the project of creating a Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter using Python.
+        Participated in the project of creating <b>a Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager)</b> using Ansible and <b>Custom Prometheus Exporter</b> using Python.
       </li>
       <li>
-        Worked with APM(Instana) and Opensource observability technologies (Opentelemetry/Opentracing etc.) and how to get telemetry data in distributed architecture by manual/auto instrumentation.
+        Worked with APM(Instana) and <b>Opensource observability technologies (Opentelemetry/Opentracing etc.)</b> and how to get telemetry data in distributed architecture by manual/auto instrumentation.
       </li>
       <br/>
     </ul>
@@ -84,10 +84,10 @@ to meet the digital transformation needs of public institutions.</i
     <br/>
     <ul style="list-style-type:none;">
       <li>
-        Involved in "BKMYBS" project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget.
+        Involved in <b>"BKMYBS"</b> project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget.
       </li>
       <li>
-        TECHNOLOGY STACK: Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web services.
+        <b>TECHNOLOGY STACK:</b> Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web services.
       </li>
     </ul>
   </div>
