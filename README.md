@@ -16,13 +16,13 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
  
- <div style="display:flex;justify-content: center;align-items:center;">
-  <span >
-      <img src="assets/experience.png" alt="experience"/>
-  </span>
-  <span >
-      <img src="assets/tech_stack.png" alt="tech_stack" /> 
-  </span>
+ <div style="display:flex;">
+    <span >
+        <img src="assets/experience.png" alt="experience" width="100%"/>
+    </span>
+    <span style="display:flex;justify-content:center;" >
+        <img src="assets/tech_stack.png" alt="tech_stack" width="80%"  /> 
+    </span>
  </div>
  
 
