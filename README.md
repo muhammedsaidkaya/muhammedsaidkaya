@@ -1,12 +1,10 @@
-<h2>👨‍💻 Whoami </h2>
+<h2> 📖 About Me </h2>
 
 
 
 <ul>
   <li>
-    <samp>
-    Improving myself about <b>AWS</b>, <b>Golang</b>, <b>Kubernetes</b>, <b>Cloud Native Technologies</b> and <b>Observability</b> Stack. 
-    </samp>
+    <p style="font-family:Arial; font-size:1.5em;">Improving myself about <b>AWS</b>, <b>Golang</b>, <b>Kubernetes</b>, <b>Cloud Native Technologies</b> and <b>Observability</b> Stack. </p>
   </li>
  </ul>
 
