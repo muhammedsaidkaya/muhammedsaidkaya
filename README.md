@@ -70,7 +70,7 @@ Authenticator)
       </li>
       <br/>
     </ul>
-    <span style="font-size:2em" ><b>Software Engineer - Tübitak Bilgem YTE</b></span>
+    <span style="font-size:32px" ><b>Software Engineer - Tübitak Bilgem YTE</b></span>
     <div style="display: flex; justify-content: space-between">
       <h3 style="color: gray" ;>10/2020 - 08/2021</h3>
       <h3 style="color: gray" ;>Ankara - Turkey</h3>
