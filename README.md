@@ -25,7 +25,7 @@
       <img src="assets/experience.png" alt="experience" width="380px" />
   </span>
   <span style="width:50%;height:100; float: left;">
-      <img src="assets/tech_stack.png" alt="tech_stack"  width="380px" />
+      <img src="assets/tech_stack.png" alt="tech_stack"  width="400px" />
   </span>
 </div>
  
