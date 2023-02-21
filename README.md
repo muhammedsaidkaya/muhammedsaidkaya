@@ -19,10 +19,7 @@
 <div style="width: 100vw; display:flex;">
   <div style="width: 40%;margin-left: 8em;">
     <h1 style="color: #dd6b50">WORK EXPERIENCE</h1>
-    <div style="display: flex; justify-content: space-between" >
-      <span><b>Cloud Software Engineer - DevOps</b></span>
-      <span style="text-align:right;" ><b>Picus Security</b></span>
-    </div>
+    <span style="font-size:2em" ><b>Cloud Software Engineer - Picus Security</b></span>
     <div style="display: flex; justify-content: space-between">
       <h3 style="color: gray" ;>07/2022 - Present</h3>
       <h3 style="color: gray" ;>San Francisco, California</h3>
@@ -47,10 +44,7 @@ Authenticator)
       </li>
       <br/>
     </ul>
-    <div style="display:flex; justify-content: space-between;" >
-      <h2><b>Platform Engineer</b></h2>
-      <h2><b>kloia</b></h2>
-    </div>
+    <span style="font-size:2em" ><b>Platform Engineer - kloia</b></span>
     <div style="display: flex; justify-content: space-between">
       <h3 style="color: gray" ;>08/2021 - 07/2022</h3>
       <h3 style="color: gray" ;>London - UK</h3>
@@ -76,10 +70,7 @@ Authenticator)
       </li>
       <br/>
     </ul>
-    <div style="display:flex; justify-content: space-between;" >
-        <h2><b>Software Engineer</b></h2>
-        <h2><b>Tübitak Bilgem YTE</b></h2>
-    </div>
+    <span style="font-size:2em" ><b>Software Engineer - Tübitak Bilgem YTE</b></span>
     <div style="display: flex; justify-content: space-between">
       <h3 style="color: gray" ;>10/2020 - 08/2021</h3>
       <h3 style="color: gray" ;>Ankara - Turkey</h3>
