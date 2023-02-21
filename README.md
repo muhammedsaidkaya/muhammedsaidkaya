@@ -21,7 +21,7 @@
         <img src="assets/experience.png" alt="experience" width="50%"/>
     </span>
     <span style="display:flex;justify-content:center;" >
-        <img src="assets/tech_stack.png" alt="tech_stack" width="50%"  /> 
+        <img src="assets/tech_stack.png" alt="tech_stack" width="40%"  /> 
     </span>
  </div>
  
