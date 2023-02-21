@@ -18,7 +18,7 @@
   <div style="width: 40%;margin-left: 8em;">
     <h1> 👨🏽‍💻 WORK EXPERIENCE</h1>
     <h2><b>Cloud Software Engineer - Picus Security</b></h2>
-    <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
+    <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
         Provisioning <b>K3S Kubernetes Cluster</b> and deploying
 applications with the <b>GitOps Flux CD.</b>
@@ -39,7 +39,7 @@ Authenticator)</b>
       <br/>
     </ul>
     <h2><b>Platform Engineer - kloia</b></h2>
-    <h3>08/2021 - 07/2022&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;London - UK</h3>
+    <h3>08/2021 - 07/2022&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;London - UK</h3>
     <h4 style="color: gray" ;>
       <i
         >kloia is a new-era consultancy company who is an accelerator for closing the technology gap through the adoption of modern practices in Cloud, DevOps, Test Automation and Microservices.</i
@@ -61,7 +61,7 @@ Authenticator)</b>
       <br/>
     </ul>
     <h2><b>Software Engineer - Tübitak Bilgem YTE</b></h2>
-    <h3>10/2020 - 08/2021&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;Ankara - Turkey</h3>
+    <h3>10/2020 - 08/2021&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Ankara - Turkey</h3>
     <h4 style="color: gray" ;>
       <i
         >Tübitak Bilgem YTE develops R&D-oriented software solutions in order
