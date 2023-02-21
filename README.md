@@ -16,24 +16,23 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
  
- <div style="display:flex;">
-    <span >
-        <img src="assets/experience.png" alt="experience" width="50%"/>
+
+<div style="display:block; width:100%;">
+  <div style="width:60%; float: left; display: inline-block;">
+    <img src="assets/experience.png" alt="experience" />
+  </div>
+  <div style="width:40%; float: left; display: inline-block;">
+    <span>
+      <img src="assets/certificates/cka.png" alt="cka" width="25%"/> 
+      <img src="assets/certificates/AWS-CP.png" alt="aws"  width="25%" /> 
+      <img src="assets/certificates/terraform-associate.png" alt="terraform"  width="25%" />
     </span>
-    <span style="display:flex;justify-content:between;top:50%" >
-        <img src="assets/tech_stack.png" alt="tech_stack" width="40%"  /> 
+    <span>
+      <img src="assets/tech_stack.png" alt="tech_stack" /> 
     </span>
- </div>
+  </div>
+</div>
  
-
-<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">🎖 Certificates</a></h2>
-<p align="left">
-<img src="assets/certificates/cka.png" alt="cka" width="170" height="170"/> 
-<img src="assets/certificates/AWS-CP.png" alt="aws" width="170" height="170"/> 
-<img src="assets/certificates/terraform-associate.png" alt="terraform" width="170" height="170"/>
-<img src="assets/certificates/Terraform-CHIP.png" alt="terraform-chip" width="170" height="170"/>
-</p>
-
 
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
