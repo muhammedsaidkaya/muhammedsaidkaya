@@ -367,10 +367,6 @@ to meet the digital transformation needs of public institutions.</i
   </div>
 </div>
 
-<style>
-  
-</style>
-
 
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">🎖 Certificates</a></h2>
