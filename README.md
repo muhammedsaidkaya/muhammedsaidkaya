@@ -16,12 +16,15 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
  
- <span>
-    <img src="assets/experience.png" alt="experience"/>
-    <span>
-      <img src="assets/tech_stack.png" alt="tech_stack" width="350" height="900"/>
-    </span>
- </span>
+ <div>
+  <span>
+      <img src="assets/experience.png" alt="experience"/>
+  </span>
+  <span>
+      <img src="assets/tech_stack.png" alt="tech_stack"/>
+  </span>
+ </div>
+ 
 
 <h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">🎖 Certificates</a></h2>
 <p align="left">
