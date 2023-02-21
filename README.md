@@ -167,11 +167,6 @@ to meet the digital transformation needs of public institutions.</i
             alt="k3s"
             width="70"
             height="70"
-          /><img
-            src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"
-            alt="istio"
-            width="70"
-            height="70"
           />
         </td>
       </tr>
@@ -186,11 +181,6 @@ to meet the digital transformation needs of public institutions.</i
             /><img
             src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png"
             alt="ansible"
-            width="70"
-            height="70"
-            /><img
-            src="assets/packerio-ar21.svg"
-            alt="packer"
             width="70"
             height="70"
             />
