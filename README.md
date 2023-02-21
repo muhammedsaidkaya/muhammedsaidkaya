@@ -18,15 +18,7 @@
   <div style="width: 40%;margin-left: 8em;">
     <h1> 👨🏽‍💻 WORK EXPERIENCE</h1>
     <h2><b>Cloud Software Engineer - Picus Security</b></h2>
-    <div style="display: flex; justify-content: space-between;" >
-      <span >
-        <h3  style="display: inline-block;" align="left" >07/2022 - Present</h3>
-      </span>
-      <span>
-        <h3  style="display: inline-block;" align="left" >San Francisco, California</h3>
-      </span>
-    </div>
-    <ul style="list-style-type:none;" >
+    <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
         Provisioning <b>K3S Kubernetes Cluster</b> and deploying
 applications with the <b>GitOps Flux CD.</b>
