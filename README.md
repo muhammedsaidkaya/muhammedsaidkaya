@@ -16,23 +16,24 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammedsaidkaya/)
 
  
-
-<div style="display:block; width:100%;">
-  <span style="width:60%; float: left;">
-    <img src="assets/experience.png" alt="experience" />
+ <div >
+  <span>
+      <img src="assets/experience.png" alt="experience" width="350px" />
   </span>
-  <span style="width:40%; float: left;">
-    <span>
-      <img src="assets/certificates/cka.png" alt="cka" width="25%"/> 
-      <img src="assets/certificates/AWS-CP.png" alt="aws"  width="25%" /> 
-      <img src="assets/certificates/terraform-associate.png" alt="terraform"  width="25%" />
-    </span>
-    <span>
-      <img src="assets/tech_stack.png" alt="tech_stack" /> 
-    </span>
+  <span>
+      <img src="assets/tech_stack.png" alt="tech_stack"  width="366px" />
   </span>
-</div>
+ </div>
  
+
+<h2 align="left"> <a href="https://www.credly.com/users/muhammed-said-kaya/badges" style="text-decoration:none;color:black">🎖 Certificates</a></h2>
+<p align="left">
+<img src="assets/certificates/cka.png" alt="cka" width="170" height="170"/> 
+<img src="assets/certificates/AWS-CP.png" alt="aws" width="170" height="170"/> 
+<img src="assets/certificates/terraform-associate.png" alt="terraform" width="170" height="170"/>
+<img src="assets/certificates/Terraform-CHIP.png" alt="terraform-chip" width="170" height="170"/>
+</p>
+
 
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
@@ -43,6 +44,5 @@
 - [How to Use Git Hooks for Shift Left on Continuous Integration](https://blog.kloia.com/how-to-use-git-hooks-for-shift-left-on-continuous-integration-67c6883b6ceb?source=rss-bb6d038e35e3------2)
 - [Creating Prometheus Custom Exporters with kloia_exporter Pip Package](https://blog.kloia.com/creating-prometheus-custom-exporters-with-kloia-exporter-pip-package-97a22e3aa999?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
-
 
 
