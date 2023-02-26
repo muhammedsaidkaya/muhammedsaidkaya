@@ -20,21 +20,77 @@
     <h2><b>Cloud Software Engineer - Picus Security</b></h2>
     <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
-        Provisioning <b>K3S Kubernetes Cluster</b> and deploying
-applications with the <b>GitOps Flux CD.</b>
+        <b>Provisioning and Maintaining Kubernetes Cluster</b>
+        <ol>
+        <li>
+        Provisioning <b>K3S Kubernetes Cluster</b> and deploying applications/Postgre/Redis etc. with the <b>GitOps Flux CD Kustomization Controller.</b>
+        </li>
+        <li>
+        Using Mozilla SOPS for Secret Management
+        </li>
+        <li>
+        Graceful Shutdown for Postgre DB for avoiding Write-Ahead-Logging errors.
+        </li>
+        <li>
+        Collecting API Server Audit Logs in Loki
+        </li>
+        <li>
+        Monitoring Cluster with Prometheus & Grafana
+        </li>
+        <li>
+        Nginx Ingress Controller and TLS Certificates (Custom TL & Lets Encrypt, etc...)
+        </li>
+        </ol>
       </li>
       <li>
-        Zero trust <b>OpenVPN Community Platform ( 2fa with Google
-Authenticator)</b>
+        <b>Setup Zero Trust OpenVPN Platform</b>
+        <ol>
+        <li>
+        OpenVPN Community Server on AWS EC2
+        </li>
+        <li>
+        Integrated Google 2FA Authenticator
+        </li>
+        <li>
+        Slack Bot commands for VPN user management
+        </li>
+        </ol> 
       </li>
       <li>
-        Slack Bot which is written in <b>Golang, Python</b> and <b>Bash script.</b>
+        <b>Setup E2E Test Infrastructure for CI Pipeline</b>
+        <ol>
+        <li>
+        Creating Github Self-hosted Runner for Using Docker Cache Layers
+        </li>
+        <li>
+        Docker Compose (Apps+DB+Redis+Nginx) with isolated Project/Network
+        </li>
+        <li>
+        Paralel Cypress Execution by Test Tag
+        </li>
+        </ol>
       </li>
       <li>
-        Filebeat Custom Processors and Elasticsearch for collecting logs. (AWS Opensearch)
+        <b>Setup Log Agent Processor</b>
+        <ol>
+        <li>
+        Filebeat Custom Processors for injecting APP Git Commit SHA in order to keep track of number of panic errors which is related to specific commit
+        </li>
+        </ol>
       </li>
       <li>
-        Provisioning <b>all AWS infrastructure</b> with <b>Terraform</b> and <b>serverless</b> . (Route53, WAF, ALB, ECS, RDS, Elasticache, SQS, SNS, Cloudwatch, Lambda, ECR, S3 and IAM)
+        <b>Provisioning and maintaning AWS infrastructure</b>
+        <ol>
+        <li> 
+        <b>Terraform:</b> Route53 (Hostedzones), WAF (IPSets, Rules, Resource Association), ALB (Listeners and Target Group Rules), ECS ( EC2 Launch Type / ASG / Launch Template for User-data ), RDS ( Aurora ), Elasticache, SNS + SQS for Event Architecture, Kinesis Data Firehose for delivering WAF and APP logs, Opensearch for collecting APP logs, S3 for storing Configuration Files
+        </li>
+        <li>
+        <b>AWS CDK with Python:</b> Cloudwatch Alarms
+        </li>
+        <li>
+        <b>Serverless - Lambda:</b> Monitoring ECS/RDS Events and etc., Creating Opsgenie Alarms and Sending Slack Notifications
+        </li>
+        </ol>
       </li>
       <br/>
     </ul>
