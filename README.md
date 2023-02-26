@@ -26,10 +26,10 @@
         Provisioning <b>K3S Kubernetes Cluster</b> and deploying applications/Postgre/Redis etc. with the <b>GitOps Flux CD Kustomization Controller.</b>
         </li>
         <li>
-        Using Mozilla SOPS for Secret Management
+        Using <b>Mozilla SOPS</b> for Secret Management
         </li>
         <li>
-        Graceful Shutdown for Postgre DB for avoiding Write-Ahead-Logging errors.
+        <b>Graceful Shutdown</b> for Postgre DB for avoiding Write-Ahead-Logging errors.
         </li>
         <li>
         Collecting API Server Audit Logs in Loki
@@ -38,7 +38,7 @@
         Monitoring Cluster with Prometheus & Grafana
         </li>
         <li>
-        Nginx Ingress Controller and Cert-Manager/TLS Certificates (Custom/Default TLS & Lets Encrypt, etc...)
+        <b>Nginx Ingress Controller</b> and <b>Cert-Manager/TLS Certificates</b> (Custom/Default TLS & Lets Encrypt, etc...)
         </li>
         </ol>
       </li>
