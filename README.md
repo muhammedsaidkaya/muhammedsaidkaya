@@ -38,7 +38,7 @@
         Monitoring Cluster with Prometheus & Grafana
         </li>
         <li>
-        Nginx Ingress Controller and TLS Certificates (Custom/Default TLS & Lets Encrypt, etc...)
+        Nginx Ingress Controller and Cert-Manager/TLS Certificates (Custom/Default TLS & Lets Encrypt, etc...)
         </li>
         </ol>
       </li>
