@@ -116,7 +116,7 @@
       </li>
       <br/>
     </ul>
-    <h2><b>Software Engineer - Tübitak Bilgem YTE</b></h2>
+    <h2><b>Software Developer - Tübitak Bilgem YTE</b></h2>
     <h3>10/2020 - 08/2021&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Ankara - Turkey</h3>
     <h4 style="color: gray" ;>
       <i
