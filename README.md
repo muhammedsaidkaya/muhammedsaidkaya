@@ -49,7 +49,7 @@
         </ol>
       </li>
       <li>
-        <b>INFRASTRUCTURE - Provisioning and Maintaning SAAS (AWS)</b>
+        <b>INFRASTRUCTURE - Provisioning and Maintaining SAAS (AWS)</b>
         <ol>
         <li> 
         <b>Terraform:</b> Route53 (Hostedzones), WAF (IPSets, Rules, Resource Association), ALB (Listeners and Target Group Rules), ECS ( EC2 Launch Type / ASG / Launch Template for User-data ), RDS ( Aurora ), Elasticache, SNS + SQS for Event Architecture, Kinesis Data Firehose for delivering WAF and APP logs, Opensearch for collecting APP logs, S3 for storing Configuration Files
