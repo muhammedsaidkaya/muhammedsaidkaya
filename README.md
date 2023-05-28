@@ -20,7 +20,7 @@
     <h2><b>DevOps Engineer - Picus Security</b></h2>
     <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
-        <b>Provisioning and Maintaining Kubernetes Cluster</b>
+        <b>Provisioning and Maintaining Onprem (Kubernetes Cluster)</b>
         <ol>
         <li>
         Provisioning <b>K3S Kubernetes Cluster</b> and deploying applications/Postgre/Redis etc. with the <b>GitOps Flux CD Kustomization Controller.</b>
@@ -40,10 +40,16 @@
         <li>
         <b>Nginx Ingress Controller</b> and <b>Cert-Manager/TLS Certificates</b> (Custom/Default TLS & Lets Encrypt, etc...)
         </li>
+        <li>
+        Creating a Mutating Admission Controller Webhook for License Management
+        </li>
+        <li>
+         Pod-level Proxy/SSL Inspection Configuration for Flux CD
+        </li>          
         </ol>
       </li>
       <li>
-        <b>Provisioning and maintaning AWS infrastructure</b>
+        <b>Provisioning and maintaning SAAS (AWS)</b>
         <ol>
         <li> 
         <b>Terraform:</b> Route53 (Hostedzones), WAF (IPSets, Rules, Resource Association), ALB (Listeners and Target Group Rules), ECS ( EC2 Launch Type / ASG / Launch Template for User-data ), RDS ( Aurora ), Elasticache, SNS + SQS for Event Architecture, Kinesis Data Firehose for delivering WAF and APP logs, Opensearch for collecting APP logs, S3 for storing Configuration Files
