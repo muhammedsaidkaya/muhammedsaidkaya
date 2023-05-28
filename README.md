@@ -43,6 +43,20 @@
         </ol>
       </li>
       <li>
+        <b>Provisioning and maintaning AWS infrastructure</b>
+        <ol>
+        <li> 
+        <b>Terraform:</b> Route53 (Hostedzones), WAF (IPSets, Rules, Resource Association), ALB (Listeners and Target Group Rules), ECS ( EC2 Launch Type / ASG / Launch Template for User-data ), RDS ( Aurora ), Elasticache, SNS + SQS for Event Architecture, Kinesis Data Firehose for delivering WAF and APP logs, Opensearch for collecting APP logs, S3 for storing Configuration Files
+        </li>
+        <li>
+        <b>AWS CDK with Python:</b> Cloudwatch Alarms
+        </li>
+        <li>
+        <b>Serverless - Lambda:</b> Monitoring ECS/RDS Events and etc., Creating Opsgenie Alarms and Sending Slack Notifications
+        </li>
+        </ol>
+      </li>
+      <li>
         <b>Setup Zero Trust OpenVPN Platform</b>
         <ol>
         <li>
@@ -70,25 +84,22 @@
         </li>
         </ol>
       </li>
-      <li>
-        <b>Setup Log Agent Processor</b>
+          <li>
+        <b>Setup Onprem Model - Stable Release Approvement Mechanism for Continuous Delivery Pipeline</b>
         <ol>
         <li>
-        Filebeat Custom Processors for injecting APP Git Commit SHA in order to keep track of number of panic errors which is related to specific commit
+        Creating K3s Kubernetes Cluster. Provisioning APPs with FluxCD.
+        </li>
+        <li>
+        Slack Bot Commands for Release Management
         </li>
         </ol>
       </li>
       <li>
-        <b>Provisioning and maintaning AWS infrastructure</b>
+        <b>Setup Filebeat Log Agent Custom Processor</b>
         <ol>
-        <li> 
-        <b>Terraform:</b> Route53 (Hostedzones), WAF (IPSets, Rules, Resource Association), ALB (Listeners and Target Group Rules), ECS ( EC2 Launch Type / ASG / Launch Template for User-data ), RDS ( Aurora ), Elasticache, SNS + SQS for Event Architecture, Kinesis Data Firehose for delivering WAF and APP logs, Opensearch for collecting APP logs, S3 for storing Configuration Files
-        </li>
         <li>
-        <b>AWS CDK with Python:</b> Cloudwatch Alarms
-        </li>
-        <li>
-        <b>Serverless - Lambda:</b> Monitoring ECS/RDS Events and etc., Creating Opsgenie Alarms and Sending Slack Notifications
+        Filebeat Custom Processors for injecting APP Git Commit SHA in order to keep track of number of panic errors which is related to specific commit
         </li>
         </ol>
       </li>
