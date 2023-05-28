@@ -38,10 +38,7 @@
         <b>Nginx Ingress Controller</b> and <b>Cert-Manager/TLS Certificates</b> (Custom/Default TLS & Lets Encrypt, etc...) <b>(Flux Conditional Bootstrapping & Variable Substitution)</b>
         </li>
         <li>
-        Creating a Mutating Admission Controller Webhook for License Management (Patching)
-        </li>
-        <li>
-         Pod-level Proxy/SSL Inspection Configuration
+        Creating a <b>Mutating Admission Controller Webhook</b> for License Management (Patching)
         </li>
         <li>
          Pod-level Proxy/SSL Inspection Configuration for Flux
