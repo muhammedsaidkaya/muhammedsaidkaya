@@ -77,7 +77,7 @@
         </ol> 
       </li>
       <li>
-        <b>AUTOMATION - Setup E2E Test Infrastructure for Continuous Integration</b>
+        <b>AUTOMATION/TESTING - Setup E2E Test Infrastructure for Continuous Integration</b>
         <ol>
         <li>
         Creating Github Self-hosted Runner for Using Docker Cache Layers
@@ -90,8 +90,8 @@
         </li>
         </ol>
       </li>
-          <li>
-        <b>AUTOMATION - Setup Onprem Stable Release Approvement Mechanism for Continuous Delivery</b>
+      <li>
+        <b>AUTOMATION/PLATFORM - Setup Onprem Stable Release Approvement Mechanism for Continuous Delivery</b>
         <ol>
         <li>
         Creating K3s Kubernetes Cluster. Provisioning APPs with FluxCD.
@@ -102,7 +102,7 @@
         </ol>
       </li>
       <li>
-        <b>Setup Filebeat Log Agent Custom Processor</b>
+        <b>OBSERVABILITY - Setup Filebeat Log Agent Custom Processor</b>
         <ol>
         <li>
         Filebeat Custom Processors for injecting APP Git Commit SHA in order to keep track of number of panic errors which is related to specific commit
