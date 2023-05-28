@@ -20,7 +20,7 @@
     <h2><b>DevOps Engineer - Picus Security</b></h2>
     <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
-        <b>Provisioning and Maintaining Onprem Model(Kubernetes Cluster)</b>
+        <b>INFRASTRUCTURE - Provisioning and Maintaining Onprem Model(Kubernetes Cluster)</b>
         <ol>
         <li>
         Provisioning <b>K3S Kubernetes Cluster</b> and deploying applications/Postgre/Redis etc. with the <b>GitOps Flux CD Kustomization Controller.</b>
@@ -49,7 +49,7 @@
         </ol>
       </li>
       <li>
-        <b>Provisioning and maintaning SAAS (AWS)</b>
+        <b>INFRASTRUCTURE - Provisioning and maintaning SAAS (AWS)</b>
         <ol>
         <li> 
         <b>Terraform:</b> Route53 (Hostedzones), WAF (IPSets, Rules, Resource Association), ALB (Listeners and Target Group Rules), ECS ( EC2 Launch Type / ASG / Launch Template for User-data ), RDS ( Aurora ), Elasticache, SNS + SQS for Event Architecture, Kinesis Data Firehose for delivering WAF and APP logs, Opensearch for collecting APP logs, S3 for storing Configuration Files
@@ -63,7 +63,7 @@
         </ol>
       </li>
       <li>
-        <b>Setup Zero Trust OpenVPN Platform</b>
+        <b>PLATFORM - Setup Zero Trust OpenVPN Platform</b>
         <ol>
         <li>
         OpenVPN Community Server on AWS EC2
@@ -77,7 +77,7 @@
         </ol> 
       </li>
       <li>
-        <b>Setup E2E Test Infrastructure for CI Pipeline</b>
+        <b>AUTOMATION - Setup E2E Test Infrastructure for Continuous Integration</b>
         <ol>
         <li>
         Creating Github Self-hosted Runner for Using Docker Cache Layers
@@ -91,7 +91,7 @@
         </ol>
       </li>
           <li>
-        <b>Setup Onprem Model - Stable Release Approvement Mechanism for Continuous Delivery Pipeline</b>
+        <b>AUTOMATION - Setup Onprem Stable Release Approvement Mechanism for Continuous Delivery</b>
         <ol>
         <li>
         Creating K3s Kubernetes Cluster. Provisioning APPs with FluxCD.
