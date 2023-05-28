@@ -17,7 +17,7 @@
 <div style="width: 100vw; display:flex;">
   <div style="width: 40%;margin-left: 8em;">
     <h1> 👨🏽‍💻 WORK EXPERIENCE</h1>
-    <h2><b>Cloud Software Engineer - Picus Security</b></h2>
+    <h2><b>DevOps Engineer - Picus Security</b></h2>
     <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
         <b>Provisioning and Maintaining Kubernetes Cluster</b>
