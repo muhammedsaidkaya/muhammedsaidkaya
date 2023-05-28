@@ -20,7 +20,7 @@
     <h2><b>DevOps Engineer - Picus Security</b></h2>
     <h3>07/2022 - Present&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, California</h3>
       <li>
-        <b>Provisioning and Maintaining Onprem (Kubernetes Cluster)</b>
+        <b>Provisioning and Maintaining Onprem Model(Kubernetes Cluster)</b>
         <ol>
         <li>
         Provisioning <b>K3S Kubernetes Cluster</b> and deploying applications/Postgre/Redis etc. with the <b>GitOps Flux CD Kustomization Controller.</b>
@@ -32,20 +32,23 @@
         <b>Graceful Shutdown</b> for Postgre DB for avoiding Write-Ahead-Logging errors.
         </li>
         <li>
-        Collecting API Server Audit Logs in Loki
+        Monitoring Cluster with Loki & Prometheus & Grafana (HELM)
         </li>
         <li>
-        Monitoring Cluster with Prometheus & Grafana
+        <b>Nginx Ingress Controller</b> and <b>Cert-Manager/TLS Certificates</b> (Custom/Default TLS & Lets Encrypt, etc...) <b>(Flux Conditional Bootstrapping & Variable Substitution)</b>
         </li>
         <li>
-        <b>Nginx Ingress Controller</b> and <b>Cert-Manager/TLS Certificates</b> (Custom/Default TLS & Lets Encrypt, etc...)
+        Creating a Mutating Admission Controller Webhook for License Management (Patching)
         </li>
         <li>
-        Creating a Mutating Admission Controller Webhook for License Management
+         Pod-level Proxy/SSL Inspection Configuration
         </li>
         <li>
-         Pod-level Proxy/SSL Inspection Configuration for Flux CD
-        </li>          
+         Pod-level Proxy/SSL Inspection Configuration for Flux
+        </li>
+        <li>
+         Mirroring AWS S3 Bucket Objects with Minio Server/Gateway
+        </li>  
         </ol>
       </li>
       <li>
