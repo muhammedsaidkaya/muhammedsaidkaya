@@ -392,11 +392,11 @@ to meet the digital transformation needs of public institutions.</i
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Air-gapped K3s System Images with Private Registry](https://medium.com/@muhammedsaidkaya/creating-air-gapped-k3s-system-images-with-private-registry-a81dd7116331?source=rss-bb6d038e35e3------2)
 - [How to Handle Cancelable Github Actions which Require Status Checks to Pass Before Merging](https://medium.com/picus-security-engineering/how-to-handle-cancelable-github-actions-which-require-status-checks-to-pass-before-merging-63545083da4e?source=rss-bb6d038e35e3------2)
 - [Gating Flux Reconciliation for Release Management](https://medium.com/picus-security-engineering/gating-flux-reconciliation-for-release-management-d660b4c04e9a?source=rss-bb6d038e35e3------2)
 - [Providing Least Privilege Access for AWS Aurora Postgres Database with ChatOps](https://medium.com/picus-security-engineering/providing-least-privilege-access-for-aws-aurora-postgres-database-with-chatops-83a5f99ee824?source=rss-bb6d038e35e3------2)
 - [Pod-level Proxy Configuration on Kubernetes and Flux](https://medium.com/picus-security-engineering/pod-level-proxy-configuration-on-kubernetes-and-flux-47f258decda?source=rss-bb6d038e35e3------2)
-- [On-premises S3 Bucket Object Storage with Minio Server/Gateway](https://medium.com/picus-security-engineering/on-premises-s3-bucket-object-storage-with-minio-server-gateway-4c44fc321b1c?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
