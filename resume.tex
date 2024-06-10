@@ -1,0 +1,162 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{latexsym}
+\usepackage{marvosym}
+\usepackage{fontawesome}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage[sfdefault]{roboto} % Load Roboto font
+
+\geometry{left=1cm, right=1cm, top=1cm, bottom=2cm}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+\hypersetup{
+    colorlinks=true,
+    urlcolor=black,
+    linkcolor=black
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+\newcommand{\resumeItem}[2]{
+  \item \textbf{#1}{ #2 \vspace{-2pt}}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \textbf{#1} \hfill #2 \\
+    {#3} \hfill \textit{#4} \vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{+1pt}}
+
+\renewcommand{\headrulewidth}{0pt}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+\begin{center}
+    {\Huge \scshape Muhammed Said Kaya} \\[1em]
+    \href{mailto:saidkaya1239@gmail.com}{\faEnvelope \ saidkaya1239@gmail.com} $|$ 
+    \faPhone \ +90 545 932 80 81 $|$
+    \faMapMarker \ Ankara, Turkey $|$ 
+    \href{https://linkedin.com/in/muhammedsaidkaya}{\faLinkedinSquare \ linkedin.com/in/muhammedsaidkaya} $|$ 
+    \href{https://github.com/muhammedsaidkaya}{\faGithub \ github.com/muhammedsaidkaya} $|$ 
+    \href{https://medium.com/@muhammedsaidkaya}{\faMedium \ medium.com/@muhammedsaidkaya}
+\end{center}
+
+\vspace{0.5em}
+
+\section*{Objective}
+Who willing to learn new things, constantly wants to improve himself and enjoys sharing knowledge. \textbf{Goal is to improve himself in Generative AI Based Application/Platform Development for DevOps with Kubernetes and Cloud Native Technologies.}
+
+\section*{Education}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Hacettepe University - Bachelor's Degree, Computer Engineering} \hfill \textit{08/2016 - 08/2021} \\
+    GPA: 3.36/4.00
+\end{itemize}
+
+\section*{Work Experience}
+\begin{itemize}[leftmargin=0.5cm]
+    % \resumeSubheading
+    %     {Senior DevOps Engineer}{09/2024 - Present}
+    %     {Picus Security}{Ankara, Turkey}
+        
+    %     {The pioneer of Breach and Attack Simulation (BAS) and the Security Validation company. The Picus Security Control Validation Platform is trusted by leading organizations worldwide to consistently validate the effectiveness of security controls against cyber-attacks and supply actionable mitigation insights to optimize them.}
+    
+    \resumeSubheading
+        {DevOps Engineer}{07/2022 - Present}
+        {Picus Security}{Ankara, Turkey}
+
+        {The pioneer of Breach and Attack Simulation (BAS) and the Security Validation company. The Picus Security Control Validation Platform is trusted by leading organizations worldwide to consistently validate the effectiveness of security controls against cyber-attacks and supply actionable mitigation insights to optimize them.}
+        \begin{itemize}
+            \resumeSubItem{}{As one of six members of the DevOps Team, \textbf{I've played a vital role in enhancing our On-premises model and refining the architecture for integration manager/agent application version compatibility}.}
+            \resumeSubItem{}{With a diverse set of responsibilities, I'm expected to be versatile, like a \textbf{Swiss army knife}. This entails supporting various teams, such as \textbf{Developer Advocate, Release Manager} during On-prem releases, \textbf{Site Reliability Engineer} during incidents, \textbf{Automation Engineer} for CI/CD pipelines, \textbf{Platform Engineer} managing our internal developer platform on Slack, \textbf{System Administrator} for server maintenance, \textbf{Security Engineer} automating security checks within the CI/CD pipeline, \textbf{Infrastructure Engineer} for provisioning AWS Resources, and more. These varied responsibilities have allowed me to broaden my skill set horizontally. Below are some of the tasks I've primarily focused on:}
+            \resumeSubItem{Provisioning and Maintaining Onprem (K8s) and SAAS (AWS) Infra}{}
+            \resumeSubItem{Setup Zero Trust OpenVPN Platform}{(Integrated 2FA Google Authenticator with Linux PAMs)}
+            \resumeSubItem{Setup E2E/Pact CDC Test Infrastructure for Continuous Integration}{}
+            \resumeSubItem{Setup Opsern Stable Release Appervement Mechanism for Continuous Delivery}{}
+            \resumeSubItem{Setup Canary Deployment Architecture}{Branch Based Canary Deployment on FluxCD and Setup Poll-based Feature Flag Architecture for Different K3s Clusters}
+            \resumeSubItem{Provisioning Terraform Custom Provider}{for Internal Identity Service}
+            \resumeSubItem{Maintaining Slack Bot (ChatOps - Internal Developer Platform)}{}
+            \resumeItem{Technology Stack:}{Python, Golang, React, Linux, Shell Scripting, Docker, Trivy, K8S (Mutating Webhook), K3s, Minio Server/Gateway, AWS (ECS, ECR, EC2, ELB, GA, RDS, SQS, SNS, WAF, S3, ACM, KMS, IAM, SSM Documents/Parameter Store, Kinesis Firehose, Cloudwatch, Opensearch, Route53, Cloudfront, DynamoDB, API Gateway, Lambda), Serverless, FluxCD, Helm, Helmfile, Kustomize, Terraform, Atlantis, GHA (Custom Merge Queue), Gitlab, EFK Stack, Postgre Administration, OpenVPN, Nginx Reverse Proxy, Prometheus Stack, Opsgenie, Slack App}
+        \end{itemize}
+
+    \bigbreak
+    \resumeSubheading
+        {Platform Engineer (Consultant)}{08/2021 - 07/2022}
+        {kloia - (AWS Advanced Consulting Partner - CNCF Silver Member)}{London - UK}
+        
+        {New-era consultancy company who is an accelerator for closing the technology gap through the adoption of modern practices in Cloud, DevOps, Test Automation and Microservices.}
+        \begin{itemize}
+            \item \textbf{Involved in Observability \& Platform Development \& Automation Projects.}
+            \item \textbf{Automation}: Worked on the integration project of Jenkins Shared Library written in Groovy for the CI / CD implementation of Adaptive Branching, one of the branching methods. Took part in the project of creating Git Hooks using Bash Scripting and Python for standardization of commit messages, build testing, and static code analysis.
+            \item \textbf{Platform}: Worked on the project of creating Upstream and Downstream Kubernetes Clusters and their integrated components in the private cloud as code. Participated in the project of creating a Monitoring Platform (Nginx, Prometheus, Grafana, Alertmanager) using Ansible and Custom Prometheus Exporter using Python.
+            \item \textbf{Observability}: Worked with APM (Instana) and Opensource observability technologies (Opentelemetry / Opentracing etc.) and how to get telemetry data in distributed architecture by manual/auto instrumentation.
+            \item \textbf{Technology Stack}: Golang, Shell Scripting, Linux, K8s, Rancher (RKE/RKE2), Terraform, Ansible, Jenkins, Opentelemetry, Prometheus Stack
+        \end{itemize}
+    \bigbreak
+    \resumeSubheading
+        {Software Developer (Part-Time)}{10/2020 - 08/2021}
+        {Tübitak Bilgem YTE}{Ankara, Turkey}
+        \begin{itemize}
+            \item \textbf{Involved in "BKMYBS"} project which enables the joint management of the accounting transactions of all public institutions and organizations within the scope of the central government budget.
+            \item \textbf{Technology Stack}: Ember.js, Spring Boot, Hibernate, PostgreSQL, Apache Kafka, ELK Stack and SOAP Web services.
+        \end{itemize}
+\end{itemize}
+
+\section*{Certificates}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{AWS Associate Developer} \hfill \textit{(10/2023 - 11/2026)}
+    \item \textbf{LF Certified Kubernetes Administrator} \hfill \textit{(10/2021 - 10/2024)}
+    \item \textbf{Terraform Associate} - Expired \hfill \textit{(12/2021 - 12/2023)}
+\end{itemize}
+
+\section*{Publications (Medium)}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Structured Logging in Shell Scripting} \hfill \textit{Dec 2023}
+    \item \textbf{Creating Air-gapped K3s System Images with Private Registry} \hfill \textit{Oct 2023}
+    \item \textbf{Pod-level Proxy Configuration on Kubernetes and Flux} \hfill \textit{May 2023}
+    \item \textbf{On-premises S3 Bucket Object Storage with Minio Server/Gateway} \hfill \textit{Apr 2023}
+    \item \textbf{OpenVPN Community Server with 2FA Google Authenticator on AWS EC2} \hfill \textit{Dec 2022}
+    \item \textbf{Adding Custom Metadata While Sending Logs with Filebeat} \hfill \textit{Nov 2022}
+\end{itemize}
+
+\section*{Open Source Contributions (GitHub)}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Trendyo/go-dcp (Data Capture Protocol)}
+    \begin{itemize}
+        \item Reduce the duration required for completing GHA workflows
+    \end{itemize}
+\end{itemize}
+
+\section*{Languages}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{English} - Professional Working Proficiency
+    \item \textbf{Turkish} - Native or Bilingual Proficiency
+\end{itemize}
+
+\section*{Hobbies}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Sudoku}
+\end{itemize}
+
+\section*{References}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Cemal Ünal} \\
+    \textit{Senior DevOps Engineer - Picus Security} \\
+    Contact: cemalunal@yahoo.com
+    \item \textbf{Ahmet Aydın} \\
+    \textit{Senior DevOps Consultant - kloia} \\
+    Contact: ahmet\_ayd@msn.com
+\end{itemize}
+
+\end{document}
