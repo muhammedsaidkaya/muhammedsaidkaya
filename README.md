@@ -392,11 +392,11 @@ to meet the digital transformation needs of public institutions.</i
 <h2 align="left"> <a href="https://medium.com/@muhammedsaidkaya" style="text-decoration:none;color:black" >🖌 Latest Blog Post</a></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding ECS Agent &lpar;Docker Container&rpar; Logs in Fluent Bit](https://medium.com/picus-security-engineering/avoiding-ecs-agent-docker-container-logs-in-fluent-bit-1419e8b32976?source=rss-bb6d038e35e3------2)
 - [How to Build Docker Images Securely —Not Leaving a Trace/Credential in Image Layers](https://medium.com/picus-security-engineering/how-to-build-docker-images-securely-not-leaving-a-trace-credential-in-image-layers-094b3ee624eb?source=rss-bb6d038e35e3------2)
 - [Child Process Graceful Shutdown in Shell Scripting](https://medium.com/picus-security-engineering/child-process-graceful-shutdown-in-shell-scripting-8827ea45982a?source=rss-bb6d038e35e3------2)
 - [Structured Logging in Shell Scripting](https://medium.com/picus-security-engineering/structured-logging-in-shell-scripting-dd657970cd5d?source=rss-bb6d038e35e3------2)
 - [Creating Air-gapped K3s System Images with Private Registry](https://medium.com/picus-security-engineering/creating-air-gapped-k3s-system-images-with-private-registry-a81dd7116331?source=rss-bb6d038e35e3------2)
-- [How to Handle Cancelable Github Actions which Require Status Checks to Pass Before Merging](https://medium.com/picus-security-engineering/how-to-handle-cancelable-github-actions-which-require-status-checks-to-pass-before-merging-63545083da4e?source=rss-bb6d038e35e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
